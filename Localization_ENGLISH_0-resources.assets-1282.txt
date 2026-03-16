@@ -1,0 +1,1680 @@
+0 TextAsset Base
+ 1 string m_Name = "Localization_ENGLISH_0"
+ 1 string m_Script = "KEY;Беларуская\r\n;\r\
+ ndaily_quests;Штодзённыя Заданні\r\
+ ndq_plate_break;Не разбейце ніводнай талеркі.\r\
+ ndq_bottle_break;Не разбейце ніводнай бутэлькі.\r\
+ ndq_serve_dish_1;Serve at least {0} dishes.\r\
+ ndq_serve_score_1;Serve a dish with a score of at least {0} stars.\r\
+ ndq_day_cash;At the end of the day have more money than at the beginning\r\
+ ndq_day_fame;At the end of the day have more fame than at the beginning.\r\
+ ndq_cp;Earn {0} Cooking points.\r\
+ ndq_dish_time;Serve all dishes in their regular time.\r\
+ ndq_dish_minute;Serve one dish {0} min before the end of regular time.\r\
+ ndq_double_score;Serve two dishes with score of at least {0} stars.\r\
+ ndq_fame_control;Do not lose any fame points.\r\
+ ndq_refund;Do not refund any dishes.\r\
+ ndq_dish_two;Serve two dishes within no more than 2 minutes of each other.\r\
+ ndq_upgrade;Upgrade a recipe.\r\
+ ndq_repairs;Do not repair anything.\r\
+ ndq_tech;Serve a dish with perfect technical score.\r\
+ ndq_ttaste;Serve a dish with perfect taste score.\r\
+ ndq_temp;Serve a dish with perfect temperature score.\r\
+ ndq_reroll;Do not use Reroll Order.\r\
+ ndq_time_enh;Do not use Time Enhancer.\r\
+ ndq_time_reset;Do not use Time Rewinder.\r\n;\r\
+ napp_recipes;Recipe\\nManager\r\
+ napp_sandbox;Order\\nManager\r\
+ napp_skills;Skill\\nManager\r\
+ napp_perks;Perk\\nBrowser\r\
+ napp_deco;Decoration\\nManager\r\
+ nrinfo_app;Restaurant\\nInfo\r\n;\r\
+ nui_dish_unlock;Dishes Unlocked\r\
+ nui_products_unlock;Products Unlocked\r\
+ nui_liquids_unlock;Liquids unlocked\r\
+ nui_spices_unlock;Spices Unlocked\r\
+ nui_deco_unlocked;Decorations Unlocked\r\
+ nui_deco_install;Install\r\
+ nui_deco_inuse;In Use\r\
+ nui_level;Level\r\
+ nui_skills_reset;Reset all skills\r\
+ nui_skills_all;All\r\
+ nui_skills_unlock;Unlocked at {0}\r\
+ nui_xp;XP\r\
+ nui_new_perks_available;New perks available\r\
+ nui_new_decoration_available;New decoration available:\r\
+ nui_skillpoints;Skill points\r\
+ nui_sp;SP\r\
+ nui_daily_reward;Daily reward\r\
+ nui_dish_stars;Dish stars\r\
+ nui_quest_reward;Quest reward\r\
+ nui_event_reward;Event reward\r\
+ nui_contest_reward;Contest reward\r\
+ nui_fame_reward;Fame star reward\r\
+ nui_choose_perk;Choose perk\r\
+ nui_choose_skills;Choose skills\r\nui_choose_recipes;Choose recipe\r\
+ nui_choose_1_perk;Choose a perk\r\nui_pick_selected;Pick selected\r\
+ nui_upgrade_skills;Upgrade your skills\r\
+ nui_skillpoints_available;Skill points available\r\
+ nui_laptop_note;Skills can also be upgraded in laptop\r\
+ nui_cost;Cost:\r\
+ nui_unlock_at;Unlock at [X]\r\
+ nui_level_up;Level up\r\
+ nui_next_day;Start next day\r\
+ nui_tip_perk;Unlocked at level {0}\r\
+ nui_tip_tvperk;Choose Reroll Order perk to unlock this button\r\
+ nui_tip_tvperk1;Choose Time Enhancer perk to unlock this button\r\
+ nui_tip_tvperk2;Choose Time Rewinder perk to unlock this button\r\
+ nui_tv_na;Already used today\r\
+ nui_tip_tablperk;Choose Dish Analyzer perk to unlock this button\r\
+ nskills_reset_description1;By spending [X][C]you can reset all your skills and get all your skill points spent back.\r\
+ nskills_reset_description2;Do you want to reset your skills?\r\
+ nui_skill_reset_pop2;Every next skill reset is more expensive than previous one\r\
+ nui_tip_skill_yes1;Not enough Cookbucks\r\
+ nui_tip_skill_yes2;No skill points distributed\r\
+ nui_tip_nosp;Not enough skill points\r\
+ nui_tip_perklvl;Perk selection available at [X] level\r\
+ nui_perk_recommend;This perk is recommended for new players\r\
+ nui_sandbox_perk_tip;*Click to select/deselect perk\r\n;\r\
+ nintercom_fdt_after61;Day Summary\r\
+ nintercom_fdt_after61_desc;Summary of your daily achievements.\r\
+ nintercom_fdt_repairs_2_add;Follow the marker, take the phone with you.\r\
+ nintercom_fdt_notebook_1;Click on the Recipe Manager in the left side-menu.\r\
+ nintercom_fdt_notebook_2;Click on the NOT OWNED tab to open the Recipe Shop.\r\n;\r\
+ nintercom_fdt_dish1_12;Now use the knife to cut the lemon into 4 pieces. Try to make them even.\r\
+ nintercom_fdt_progress1_1;After each day you'll be presented with a summary of progress the restaurant made.\r\
+ nintercom_fdt_progress1_2;Our goal is to reach full 5 star fame rating. As you can see, there's still a lot ahead of us.\r\
+ nintercom_fdt_progress1_3;Oh, and please, don't go bankrupt.\r\
+ nintercom_fdt_progress2_1;Level summary shows how much experience you've gained today. Experience points come primarly from serving dishes and doing daily quests.\r\
+ nintercom_fdt_progress2_2;Once you gain enough experience you will automatically level up.\r\
+ nintercom_fdt_progress3_1;Perks are very powerful, unique abilities. Once every few levels you'll be given an option to choose one. \r\
+ nintercom_fdt_progress3_2;This choice can't be postponed or undone so take your time and pick what you think will be most useful. \r\
+ nintercom_fdt_progress3_3;You can view perks you already own using Perk Browser app in the laptop.\r\
+ nintercom_fdt_progress4_1;Skill Points are used to unlock and upgrade Skills. With each level you gain a certain amount of SPs. You can spend them immediately or save them for later.\r\n;\r\
+ nintercom_fdt_insert62;Preparation Phase\r\nintercom_fdt_insert62_desc;Prepare for the workday.\r\
+ nintercom_fdt_day2_31;This is what we call the preparation phase. The name should tell the story. No orders yet, but you can use anything in the kitchen to prepare for the day.\r\
+ nintercom_fdt_day2_32;Make sure to prepare the ingredients you'll be using. Getting a head start on some of the dishes is also a good idea - as long as you know what you're doing.\r\
+ nintercom_fdt_day2_4;You know what else? It's also a great opportunity to review the laptop!\r\
+ nintercom_fdt_day2_4_qs;Enter the laptop.\r\
+ nintercom_fdt_skills_0;Let's pick up where we left off yesterday. Open the Skill Manager app using the left side-menu.\r\
+ nintercom_fdt_skills_0_qs;Open Skill Manager app.\r\
+ nintercom_fdt_skills_1;Skills provide you with small gameplay bonuses. If you didn't spend your Skill Points yesterday, you can do so now.\r\
+ nintercom_fdt_skills_3;Some skills become available once our Restaurant gains enough fame. You can choose to save up SPs and use this app later to unlock what you need.\r\
+ nintercom_fdt_skills_4;You can even reset all your skills and spend your SPs differently, but that's going to cost you some money.\r\
+ nintercom_fdt_perks_0;Once you're done here, head on to the Perk Browser app.\r\
+ nintercom_fdt_perks_0_qs;Open Perk Browser app.\r\
+ nintercom_fdt_perks_1;Here you can review already owned perks and on which levels you'll be learning new ones.\r\
+ nintercom_fdt_perks_2;I think that's all. Once you're done here, you can exit the laptop.\r\
+ nintercom_fdt_perks_3;A hint, kid. If I were you, I'd check out the recipes we'll be serving today, before you leave the laptop.\r\
+ nintercom_fdt_perks_3_qs;When you're ready, exit the laptop.\r\
+ nintercom_fdt_perks_4;Yikes, look at the time! We need to open right away. Let's get cooking!\r\n;\r\
+ nintercom_fdt_65;Fame Stars\r\nintercom_fdt_65_desc;Earn your first Fame Star.\r\
+ nintercom_fdt_fame_0;You've got hold of the basics pretty quickly. So what's the master plan, you might ask. Well... I want this place to go from no stars to five stars.\r\
+ nintercom_fdt_fame_1;How do we do that? Actually all the heavy lifting's on you. Each dish you serve affects our Fame Score. Do well and the score goes up, mess up and we're going down.\r\
+ nintercom_fdt_fame_2;But that's not all. To gain a Fame Star we need to attract a Food Critic. To do that we have to meet a fame score quota at the end of a day.\r\
+ nintercom_fdt_fame_3;And that's your first assignment - I need you to have our Fame Score at at least {0}.\r\
+ nintercom_fdt_fame_3_qs;Reach Fame Score of at least {0}.\r\
+ nintercom_fdt_fame_4;Impressive. You've met the Fame Score quota. Keep it up and by the end of the day we're bound to attract a Food Critic.\r\
+ nintercom_fdt_fame_5;A good idea would be going over the quota to have some breathing space, just in case.\r\
+ nintercom_fdt_fame_4_qs;Finish the day with Fame Score of at least {0}.\r\
+ nintercom_fdt_fame_6_fail;Yikes. We're below the quota again, if we won't make it back by the end of the day, the food critic won't bother with us.\r\
+ nintercom_fdt_fame_6_ok;That was close, but we've met the quota again. Please, try to keep it that way.\r\
+ nintercom_fdt_fame_7;Yay! You did it! A Food Critic wants to try out your cooking tomorrow. Impress him and we're guaranteed a Fame Star.\r\
+ nintercom_fdt_fame_8_qs;Score at least {0} stars on Food Critics order.\r\nintercom_fdt_fame_8;Once the Critic is here, focus on his order. Score at least {0} stars to pass his exam.\r\nintercom_fdt_fame_9_fail;Well, no one said it will be easy, you'll just have to try again. This will of course affect our fame score, but I'm sure you'll make it back in no time.\r\
+ nintercom_fdt_fame_9_success;Great job, I'm really proud. This is the first step on our road to culinary stardom.\r\n;\r\
+ nintercom_SCHOOL_notebook_0;Hi, I'm the new owner of this restaurant. Pleased to meet you in person. Today I wanted to show you how to operate apps in the laptop. \r\nintercom_SCHOOL_notebook_1;You may be the best when it comes to cooking, but without knowledge of these apps we won't reach the top.\r\
+ nintercom_SCHOOL_notebook_2;Let's begin. First, find the laptop. Just go to the marker.\r\
+ nintercom_SCHOOL_notebook_3;Get to the marker, the laptop is on the desk next to the marker.\r\
+ nintercom_SCHOOL_notebook_4;You can't operate the laptop from here, get to the marker.\r\
+ nintercom_SCHOOL_notebook_5;Now target the laptop and use it.\r\
+ nintercom_SCHOOL_notebook_6;Just point at the laptop and follow the intructions in the bottom right corner to use the laptop.\r\
+ nintercom_SCHOOL_notebook_7;This is the main view of the laptop. From here you can enter any app simply by clicking its icon in the left side-menu.\r\
+ nintercom_SCHOOL_notebook_8;By default the laptop starts on the Restaurant Info app. Use it to view some basic statistics. \r\
+ nintercom_SCHOOL_notebook_9;Now we'll take a look at the Recipe Manager, it's the second app from the top. Click on it.\r\
+ nintercom_SCHOOL_notebook_10;These are all the recipes you currently own. The counter in the top right displays how many Cooking Points you currently have. The display to the left shows your fame ranking.\r\
+ nintercom_SCHOOL_notebook_11;Hover over the dishes to learn their names, preparation times and base gain values for each served dish.\r\
+ nintercom_SCHOOL_notebook_12;Now click on the highlighted picture to learn the full details of that recipe.\r\
+ nintercom_SCHOOL_notebook_13;The left column contains the base gain values for each serving of a dish and the list of ingredients needed. The right column describes what you need to do in order to prepare this recipe.\r\nintercom_SCHOOL_notebook_14;Once you're ready, click the 'BACK' button near the top left corner to return to the owned recipes view.\r\
+ nintercom_SCHOOL_notebook_15;Okay, now let's upgrade a dish. I've added some cooking points to your account. Spend them on an upgrade by clicking the highlighted button under the recipe.\r\
+ nintercom_SCHOOL_notebook_16;Press the highlighted button under the dish to spend Cooking Points and upgrade the recipe.\r\nintercom_SCHOOL_notebook_17;Great! Now let's buy some new recipes. Head on to the Not Owned Section of Recipe Browser.\r\
+ nintercom_SCHOOL_notebook_18;Press the Not Owned button in the top left corner of of the screen.\r\
+ nintercom_SCHOOL_notebook_19;This screen works similarly to the owned recipes. Some dishes not only cost Cooking Points but also require a Fame Rating not lower than the amount of stars specified.\r\nintercom_SCHOOL_notebook_20;I want you to buy a recipe, I've given you some more Cooking Points. Buying works exactly like upgrading, just click the highlighted button to spend Cooking Points.\r\nintercom_SCHOOL_notebook_21;Press the highlighted button under the dish to spend Cooking Points and buy the recipe.\r\nintercom_SCHOOL_notebook_22;Next Up is the Perk Browser. Click on it's icon in the left side-menu.\r\nintercom_SCHOOL_notebook_23;Perks are unique, impactful abilities. This view let's you see what perks you already own and on which levels you'll be able to learn new ones.\r\nintercom_SCHOOL_notebook_24;Now let's check out the Skill Manager, it's the next app on the list.\r\nintercom_SCHOOL_notebook_25;Skills are lesser abilities affecting a wide variety of values in our kitchen. Some skills become available only once the restaurant is famous enough.\r\nintercom_SCHOOL_notebook_26;Each entry on the list represents one skill. It tells you the level of the skill you currently own (upper-right corner) and how much SP will it cost to upgrade that level (lower-right corner).\r\nintercom_SCHOOL_notebook_27;You can use the selection box at the top of the screen to filter the list. Go on, try it. Let's display only skills that are on level 1.\r\nintercom_SCHOOL_notebook_28;Notice that skills on the same level cost the same amount of SP to upgrade. Press the button at the bottom of the screen to level up a level 1 skill.\r\
+ nintercom_SCHOOL_notebook_29;If you'll come to a conclusion that you'd prefer to have a different skillset, you can always reset your skills using the button in the bottom-right corner.\r\nintercom_SCHOOL_notebook_30;Resetting skills grants you all the SPs you've spent, however mind that it becomes increasingly expensive. But this one's on me, go ahead and try it.\r\nintercom_SCHOOL_notebook_31;Notice that all of the skills are now level 0 and your Skil Points are reset.\r\nintercom_SCHOOL_notebook_32;The last on the list is the Decoration Manager app. Click on it.\r\nintercom_SCHOOL_notebook_33;This app allows you to redecorate your kitchen. Materials are pretty expensive, but once you own a theme you can switch to it at any time for free.\r\nintercom_SCHOOL_notebook_34;"To the right you can see a list of themes available in the current category. I want you to select ""60s""."\r\nintercom_SCHOOL_notebook_35;"Click on the ""60s"", notice that the preview screen changes."\r\nintercom_SCHOOL_notebook_36;Selecting a theme only changes the preview, it doesn't buy nor apply it. I've added some money to your account, click the buy button below. \r\nintercom_SCHOOL_notebook_37;"Notice the hammer icon - it indicates which decoration is currently in use. Whenever you buy a new theme it automatically becomes applied. Now let's change back to ""Basic""."\r\nintercom_SCHOOL_notebook_38;"Click ""Basic"" then click apply in the bottom right corner of the app window."\r\nintercom_SCHOOL_notebook_39;I've added some more money to your account in case you want to test things out. Once you're done, follow the instructions in the bottom right corner and exit the laptop view.\r\nintercom_SCHOOL_notebook_40;Notice that some of the items have a lock icon next to them. To unlock them in career mode you will need to gain XP and level up.\r\nintercom_SCHOOL_notebook_41;Now you know everything about our laptop. Be sure to use this knowledge.\r\n;\r\nACH_ASCETIC;Ascetic. - Finish career mode without spending any skill points or acquiring perks.\r\nACH_THE_BEST;You're the best around. - Max out a skill in career mode.\r\nACH_EFFICIENT;Efficient Enhancer. - Use Time Enhancer in career mode to enhance 3 dishes at the same time.\r\nACH_PARANOID;Paranoid. - Use the Dish Analyzer in career mode on a 5 star order.\r\nACH_EVERY_SECOND_COUNTS;Every second counts. - Reset a dish timer when it's below 10 seconds in career mode.\r\
+ nACH_WASTE_OF_TIME;Waste of time. - Reset a dish timer within 10 seconds from it being ordered in career mode.\r\
+ nACH_GAMBLER;Gambler. - Use Reroll in career mode a total of 50 times.\r\
+ nACH_RELIABLE;Reliable. - Finish career mode without failing any daily quests.\r\
+ nACH_LIKE_MY_JOB;I like my job. - Complete every daily quest in the game.\r\
+ nACH_STOP_ME_NOW;Don't stop me now. - Keep moving for 30 seconds.\r\
+ nACH_EAT_BEAT;Eat it or beat it. - Finish career mode without refunding an order.\r\
+ nACH_SEE_YOU;I see you. - Use Thermo Vision to check on a product inside an oven.\r\
+ nACH_GARBAGE;Garbagium disposa. - Use Fairy Touch to dispose of 100 shards at the same time.\r\
+ nACH_MISSED_SPOT;You missed a spot. - Finish career mode while leaving the kitchen clean for the night every time.\r\
+ nACH_LONG_GAME;Playing the long game. - Spend 150 SP in a single run in career mode.\r\n;\r\
+ ndesign_WALL_1_7;Metal Shed\r\
+ ndesign_CEILING_7;Wired\r\
+ ndesign_FLOOR_8;Weave\r\
+ ndesign_WALL_0_8;Olive Green\r\
+ ndesign_CEILING_8;Concrete Slabs\r\
+ ndesign_FLOOR_9;Temple\r\
+ ndesign_WALL_0_9;Fancy Pattern\r\
+ ndesign_WALL_1_9;Abandoned House\r\
+ ndesign_CEILING_9;Prefab\r\n;\r\
+ nquantity_ml;ml\r\nquantity_l;l\r\
+ nquantity_g;g\r\nquantity_kg;kg\r\
+ ndistance_m;m\r\ndistance_km;km\r\
+ nduration_min;min\r\nduration_s;s\r\
+ nrecipe_1022;Fried Shrimp\r\
+ nrecipe_1023;Baked Cod\r\
+ nrecipe_1024;Baked Trout\r\
+ nrecipe_1025;Steak with French Fries\r\
+ nrecipe_1026;Gazpacho\r\
+ nrecipe_1027;Pork Chops with Baked Potatoes\r\
+ nrecipe_1028;Pork Tenderloin with Caramelized Vegetables\r\
+ nrecipe_1029;Baked Trout with Roasted Brussels Sprouts\r\
+ nrecipe_1030;Fusilli Aglio, Olio e Peperoncino\r\
+ nrecipe_1031;Fast Pumpkin Soup\r\
+ nrecipe_1032;Simple Ukrainian Borscht\r\
+ nrecipe_1033;Tomato Bruschetta\r\
+ nrecipe_1034;Shrimp Salad with Tomato Bruschetta\r\
+ nrecipe_1035;Fried Garlic Shrimp\r\
+ nrecipe_1036;German Potato Salad\r\
+ nrecipe_1037;Smokey German Potato Salad\r\
+ nrecipe_1038;Baked Cod with Greek Salad\r\
+ nrecipe_1039;Grilled Tuna Steak\r\
+ nrecipe_1040;Grilled Tuna Steak with Orange Salad\r\
+ nrecipe_1041;Salmon with Asparagus\r\
+ nrecipe_1042;Salmon in Butter Sauce with Asparagus\r\
+ nrecipe_1043;Salmon Steak and Boiled Potatoes\r\
+ nrecipe_1044;Salmon Steak, Potatoes, Grilled Tomatoes\r\
+ nrecipe_1045;Fried Shrimp Boil\r\
+ nrecipe_1046;Baked Shrimp Boil\r\
+ nrecipe_1047;Chicken Leg with Caprese Salad\r\
+ nrecipe_1048;Marinated Chicken Leg with Caprese Salad\r\
+ nrecipe_1049;Hamburger\r\
+ nrecipe_1050;Honey-Mustard Burger with French Fries\r\
+ nrecipe_1051;Duck Breast with Apples\r\
+ nrecipe_1052;Duck Breast with Roasted Mushrooms\r\
+ nrecipe_1053;Grilled Beef Chuck with Baked Potatoes\r\
+ nrecipe_1054;Beef Chuck with Potatoes and Garlic Sauce\r\
+ nrecipe_1055;Pork Chops and Lemon Baked Potatoes\r\
+ nrecipe_1056;Pork Tenderloin in Mustard Sauce\r\
+ nrecipe_1057;Steak with Barbecue Sauce and Vegetables\r\
+ nrecipe_1058;Blended Fusilli Aglio, Olio e Peperoncino\r\
+ nrecipe_1059;Fast Beef Stroganoff over Fusilli\r\
+ nrecipe_1060;Fast Beef Stroganoff over Buttered Fusilli\r\
+ nrecipe_1061;Beef Stroganoff over Buttered Fusilli\r\
+ nrecipe_1062;Fusilli with Neapolitan Sauce\r\
+ nrecipe_1063;Fusilli with Blended Neapolitan Sauce\r\
+ nrecipe_1064;Fast Pasta alla Genovese\r\
+ nrecipe_1065;Pasta alla Genovese\r\
+ nrecipe_1066;Penne in Broccoli Sauce\r\
+ nrecipe_1067;Penne in Broccoli and Mushroom Sauce\r\
+ nrecipe_1068;Penne in Salmon Sauce\r\
+ nrecipe_1069;Penne in Fragrant Salmon Sauce\r\
+ nrecipe_1070;Fast Caldo Verde\r\
+ nrecipe_1071;Caldo Verde\r\
+ nrecipe_1072;Corn Chowder\r\
+ nrecipe_1073;Corn, Scallop and Bacon Chowder\r\
+ nrecipe_1074;Duck Broth\r\
+ nrecipe_1075;Duck Consommé\r\
+ nrecipe_1076;Chunky Gazpacho\r\
+ nrecipe_1077;Pumpkin Soup\r\
+ nrecipe_1078;Pumpkin Soup with Croutons\r\
+ nrecipe_1079;Tomato Soup\r\
+ nrecipe_1080;Red Pepper and Tomato Soup\r\
+ nrecipe_1081;Red Pepper and Tomato Soup with Toast\r\
+ nrecipe_1082;Ukrainian Borscht\r\
+ nrecipe_1083;Fast Ratatouille\r\
+ nrecipe_1084;Ratatouille\r\n;\r\
+ nproduct_0;Tomato\r\
+ nproduct_1;Water\r\
+ nproduct_2;Sunflower Oil\r\
+ nproduct_3;Red Wine\r\
+ nproduct_4;Duck Breast\r\
+ nproduct_5;Raspberry\r\
+ nproduct_6;Zucchini\r\
+ nproduct_7;Cucumber\r\
+ nproduct_8;Eggplant\r\
+ nproduct_9;Salt\r\
+ nproduct_10;Black Pepper\r\
+ nproduct_11;Oregano, dried\r\
+ nproduct_12;Honey\r\
+ nproduct_13;Chicken Broth\r\
+ nproduct_14;Onion\r\
+ nproduct_15;Fusilli\r\
+ nproduct_16;Garlic\r\
+ nproduct_17;Steak\r\
+ nproduct_18;Sour Cream\r\
+ nproduct_20;White Vinegar\r\
+ nproduct_21;Lemon Juice\r\
+ nproduct_26;Potato\r\
+ nproduct_27;Cob of Corn\r\
+ nproduct_28;Radish\r\
+ nproduct_30;Carrot\r\
+ nproduct_31;Apple\r\
+ nproduct_32;Banana\r\
+ nproduct_33;Orange\r\
+ nproduct_34;Strawberry\r\
+ nproduct_36;Sugar\r\
+ nproduct_38;Parsley\r\
+ nproduct_42;Penne\r\
+ nproduct_44;Burger Meat\r\
+ nproduct_45;Burger Bun\r\
+ nproduct_46;Sweet Bell Pepper, powder\r\
+ nproduct_47;Chicken Leg\r\
+ nproduct_48;Shrimp\r\
+ nproduct_49;Broccoli\r\
+ nproduct_52;Dill, dried\r\
+ nproduct_53;Bacon\r\
+ nproduct_55;Salmon\r\
+ nproduct_56;White Wine\r\
+ nproduct_57;White Pepper\r\
+ nproduct_59;Cilantro Leaves, dried\r\
+ nproduct_60;Lime Juice\r\
+ nproduct_61;Rosemary, dried\r\
+ nproduct_63;Soy Sauce\r\
+ nproduct_64;Mozzarella\r\
+ nproduct_65;Pork Chops\r\
+ nproduct_66;Thyme, dried\r\
+ nproduct_68;Coconut Milk\r\
+ nproduct_69;Ginger\r\
+ nproduct_70;Basil, dried\r\
+ nproduct_71;Cumin, powder\r\
+ nproduct_72;Curry, powder\r\
+ nproduct_73;Mint, dried\r\
+ nproduct_74;Herbs de Provence, dried\r\
+ nproduct_75;Chili Flakes\r\
+ nproduct_76;Lovage, dried\r\
+ nproduct_77;Turmeric, powder\r\
+ nproduct_78;Marjoram, dried\r\
+ nproduct_79;Smoked Pepper, powder\r\
+ nproduct_80;Asparagus\r\
+ nproduct_81;Cheddar\r\
+ nproduct_82;Trout\r\
+ nproduct_83;Salmon Fillet\r\
+ nproduct_84;Lemon\r\
+ nproduct_85;Tuna\r\
+ nproduct_86;Cod\r\
+ nproduct_87;Beetroot\r\
+ nproduct_88;Horseradish\r\
+ nproduct_89;Parmesan\r\
+ nproduct_90;Pumpkin\r\
+ nproduct_91;Goat Cheese\r\
+ nproduct_92;Mussels\r\
+ nproduct_93;Whole Ginger\r\
+ nproduct_94;Pear\r\
+ nproduct_95;Scallop\r\
+ nproduct_97;Pork Tenderloin\r\
+ nproduct_98;Ketchup\r\
+ nproduct_99;Barbecue Sauce\r\
+ nproduct_103;Mixture\r\
+ nproduct_104;Blend\r\
+ nproduct_105;Sauce\r\
+ nproduct_106;Soup\r\
+ nproduct_107;Button Mushroom\r\
+ nproduct_108;Red Bell Pepper\r\
+ nproduct_109;Green Bell Pepper\r\
+ nproduct_111;Yellow Bell Pepper\r\
+ nproduct_112;Jalapeño\r\
+ nproduct_113;Chili Pepper\r\
+ nproduct_114;Brussels Sprouts\r\
+ nproduct_115;Lime\r\
+ nproduct_116;Gorgonzola\r\
+ nproduct_117;Beef Chuck\r\
+ nproduct_118;Clarified Butter\r\
+ nproduct_119;Milk\r\
+ nproduct_120;Mustard\r\
+ nproduct_121;Avocado Oil\r\
+ nproduct_122;Olive Oil\r\nproduct_123;Rice Vinegar\r\
+ nproduct_124;Balsamic Vinegar\r\
+ nproduct_125;Allspice, powder\r\
+ nproduct_126;Bay Leaf, dried\r\
+ nproduct_127;Cayenne Pepper, powder\r\
+ nproduct_128;Cinnamon, powder\r\
+ nproduct_129;Garlic, dried\r\
+ nproduct_130;Horseradish, dried\r\
+ nproduct_131;Nutmeg, powder\r\
+ nproduct_132;Lemon Pepper\r\
+ nproduct_133;Vanilla, powder\r\
+ nproduct_134;Bread\r\
+ nproduct_135;Basil Leaf, fresh\r\
+ nproduct_136;Oregano Twig\r\
+ nproduct_137;Mint Leaf\r\
+ nproduct_138;Rosemary Twig\r\
+ nproduct_139;Thyme Twig\r\
+ nproduct_140;Parsley Leaves, fresh\r\
+ nproduct_141;Chives\r\
+ nproduct_142;Cilantro Leaves, fresh\r\
+ nproduct_143;Dill, fresh\r\
+ nproduct_144;Sage Leaf, fresh\r\
+ nproduct_145;Bay Leaf, fresh\r\
+ nproduct_146;Wine Vinegar\r\
+ nproduct_147;Sausage\r\
+ nproduct_148;Soap\r\
+ nproduct_160;Egg\r\
+ nproduct_161;Egg\r\
+ nproduct_162;Peeled Egg\r\
+ ncontainer_0;Pan\r\
+ ncontainer_1;Big Pot\r\
+ ncontainer_3;Grill Pan\r\
+ ncontainer_11;Bake Tray\r\
+ ncontainer_13;Food Processor Container\r\
+ ncontainer_14;Fryer Basket\r\
+ ncontainer_16;Paella Pan\r\
+ ncontainer_18;Small Pot\r\
+ ncontainer_21;Cutting Board\r\
+ ncontainer_22;Bucket\r\ncontainer_26;Colander\r\
+ ncontainer_27;Plastic Bowl\r\
+ ncontainer_100;Large Plate, Basic\r\
+ ncontainer_101;Small Plate, Basic\r\
+ ncontainer_102;Bowl, Basic\r\
+ ncontainer_103;Small Plate, Basic\r\
+ ncontainer_104;Plate, Basic\r\
+ ncontainer_105;Square Plate, Basic\r\
+ ncontainer_106;Deep Plate, Basic\r\
+ ncontainer_107;Plate, Basic\r\
+ ncontainer_108;Casserole, Basic\r\
+ ncontainer_109;Bowl, Basic\r\
+ ncontainer_110;Large Plate, Basic\r\
+ ncontainer_300;Large Plate, Marine\r\
+ ncontainer_301;Small Deep Plate, Marine\r\
+ ncontainer_302;Bowl, Marine\r\
+ ncontainer_303;Small Plate, Marine\r\
+ ncontainer_304;Plate, Marine\r\
+ ncontainer_305;Square Plate, Marine\r\
+ ncontainer_306;Large Bowl, Marine\r\
+ ncontainer_307;Plate, Marine\r\
+ ncontainer_308;Casserole, Marine\r\
+ ncontainer_309;Bowl, Marine\r\
+ ncontainer_310;Large Plate, Marine\r\
+ ncontainer_400;Large Plate, Minimalistic\r\
+ ncontainer_401;Small Plate, Minimalistic\r\
+ ncontainer_403;Small Plate, Minimalistic\r\
+ ncontainer_402;Bowl, Minimalistic\r\
+ ncontainer_409;Bowl, Minimalistic\r\
+ ncontainer_404;Plate, Minimalistic\r\
+ ncontainer_407;Plate, Minimalistic\r\
+ ncontainer_405;Square Plate, Minimalistic\r\
+ ncontainer_406;Large Bowl, Minimalistic\r\
+ ncontainer_408;Casserole, Minimalistic\r\
+ ncontainer_410;Plate, Minimalistic\r\
+ ncontainer_411;Oval Plate, Minimalistic\r\
+ ncontainer_412;Small Oval Plate, Minimalistic\r\
+ ncontainer_500;Large Plate, Refined\r\
+ ncontainer_501;Small Deep Plate, Refined\r\
+ ncontainer_502;Bowl, Refined\r\
+ ncontainer_509;Bowl, Refined\r\
+ ncontainer_503;Small Plate, Refined\r\
+ ncontainer_504;Plate, Refined\r\
+ ncontainer_505;Square Plate, Refined\r\
+ ncontainer_506;Large Bowl, Refined\r\
+ ncontainer_507;Plate, Refined\r\
+ ncontainer_508;Casserole, Refined\r\
+ ncontainer_510;Plate, Refined\r\
+ ncontainer_511;Oval Plate, Refined\r\
+ ncontainer_512;Small Oval Plate, Refined\r\
+ ncontainer_600;Large Plate, Primal\r\
+ ncontainer_601;Small Deep Plate, Primal\r\
+ ncontainer_602;Bowl, Primal\r\
+ ncontainer_603;Small Plate, Primal\r\
+ ncontainer_604;Plate, Primal\r\
+ ncontainer_607;Plate, Primal\r\
+ ncontainer_610;Plate, Primal\r\
+ ncontainer_605;Square Plate, Primal\r\
+ ncontainer_606;Large Bowl, Primal\r\
+ ncontainer_608;Casserole, Primal\r\
+ ncontainer_609;Bowl, Primal\r\
+ ncontainer_611;Oval Plate, Primal\r\
+ ncontainer_612;Small Oval Plate, Primal\r\n;\r\
+ nnot_specified;Not specified\r\
+ nunassigned;Unassigned\r\
+ nstack;Stack\r\n;\r\
+ nworkstand_5;Gas Cooker\r\
+ nworkstand_6;Upper Oven\r\
+ nworkstand_8;Lower Oven\r\
+ nworkstand_9;Griddle\r\
+ nworkstand_10;Food Processor\r\
+ nworkstand_12;Left Fryer\r\
+ nworkstand_13;Right Fryer\r\
+ nworkstand_15;Grill\r\
+ ndummy_0;The Cook Book\r\
+ ndummy_1;Cardboard Box\r\
+ ndummy_2;Cardboard Box\r\
+ ndummy_3;Cardboard Box\r\
+ ndummy_4;Cardboard Box\r\
+ ndummy_5;Cardboard Box\r\
+ ndummy_6;Cardboard Box\r\
+ ndummy_7;Cardboard Box\r\
+ ndummy_16;Cardboard Box\r\
+ ndummy_8;Stool\r\
+ ndummy_9;Fire Extinguisher\r\
+ ndummy_10;Gas Bottle\r\
+ ndummy_13;Timer\r\
+ ndummy_14;Toaster\r\
+ ndummy_17;Broken Door\r\
+ ndummy_18;Broken Door\r\
+ ndummy_19;Broken Door\r\
+ ndummy_20;Broken Door\r\
+ ndummy_21;Broken Door\r\
+ ndummy_22;Broken Door\r\
+ ndummy_23;Broken Door\r
+ ndummy_25;Broken Door\r\
+ ndummy_26;Broken Door\r\
+ ndummy_27;Broken Door\r
+ ndummy_29;Broken Door\r\
+ ndummy_30;Broken Door\r\
+ ndummy_31;Broken Door\r\
+ ndummy_32;Air Conditioning Fan\r\
+ ndummy_33;Air Conditioning Fan\r\
+ ndummy_34;Air Conditioning Fan\r\
+ ndummy_35;Air Conditioning Fan\r\
+ ndummy_36;Air Conditioning Fan\r\
+ ndummy_37;Broken TV\r\
+ ndummy_50;Exit\r\
+ ndummy_99;Phone\r\
+ nfractured_0;Shard\r\
+ nnone;NONE\r\
+ nempty;EMPTY\r\n
+ disp_fame;Fame\r\
+ nreq_fame;Required Fame\r\
+ nhire_cost;Cost\r\
+ ntool_0;Knife\r\
+ ntool_1;Knife\r\
+ ntool_2;Knife\r\
+ ntool_3;Knife\r\
+ ntool_4;Knife\r\
+ ntool_5;Knife\r\
+ ntool_6;Pasta Spoon\r\
+ ntool_7;Spatula\r\
+ ntool_8;Spatula\r\
+ ntool_9;Turning Spatula\r\
+ ntool_10;Spoon\r\
+ ntool_11;Ladle\r\
+ ntool_12;Whisk\r\
+ ntool_13;Blender\r\
+ ntool_14;Tongs\r\
+ ntool_15;Blowtorch\r\
+ ntool_16;Sponge\r\
+ ntut_changemusic;CHANGE MUSIC\r\
+ ntut_unlockcur;UNLOCK CURSOR\r\
+ ntut_openclose;OPEN/CLOSE\r\
+ ntut_switch;SWITCH\r\
+ ntut_nexttr;NEXT STATION\r\
+ ntut_prevtr;PREVIOUS STATION\r\
+ ntut_nextst;NEXT MODE\r\
+ ntut_turnoff;TURN OFF\r\
+ ntut_blenderOff;TURN OFF\r\
+ ntut_blowtorchOff;TURN OFF\r\
+ ntut_turnon;TURN ON\r\
+ ntut_blenderOn;TURN ON\r\
+ ntut_blowtorchOn;TURN ON\r\
+ ntut_finishcom;FINISH COMPONENT\r\
+ ntut_close;CLOSE\r\
+ nbutton_close;Close\r\
+ ntut_closewin;CLOSE THIS WINDOW\r\
+ ntut_closescr;EXIT THIS SCREEN\r\
+ ntut_pickup;PICK UP\r\
+ ntut_pickprod;PICK UP PRODUCT\r\
+ ntut_buyprod;BUY PRODUCT\r\
+ ntut_pickcon;PICK UP CONTAINER\r\
+ ntut_buycon;BUY CONTAINER\r\
+ ntut_picktool;PICK UP TOOL\r\
+ ntut_put;PUT DOWN\r\
+ ntut_puttool;PUT TOOL DOWN\r\
+ ntut_putcon;PUT CONTAINER DOWN\r\
+ ntut_putprod;PUT PRODUCT DOWN\r\
+ ntut_putincon;PUT IN CONTAINER\r\
+ ntut_pourincon;POUR INTO CONTAINER\r\
+ ntut_putongas;PUT ON GAS\r\
+ ntut_dump;DUMP\r\
+ ntut_trashit;DUMP\r\
+ ntut_createcon;CREATE CONTAINER\r\
+ ntut_slicestart;START SLICING\r\
+ ntut_checkstop;STOP THE CHECK\r\
+ ntut_screenstart;USE THE LAPTOP\r\
+ ntut_back;BACK\r\
+ ntut_changevolume;CHANGE VOLUME\r\
+ ntut_phonecall;CALL REPAIR SERVICE\r\
+ ntut_timerSet;SET UP TIMER\r\
+ ntut_timerCalm;STOP TIMER\r\
+ ntut_assigncontainer;HIDE UI\r\
+ ntut_bottleCapOff;OPEN BOTTLE\r\
+ ntut_bottleCapOn;CLOSE BOTTLE\r\
+ ntut_expandpickrange;EXPAND PICK UP RANGE\r\
+ ntut_changepickmode;CHANGE PICK MODE\r\
+ ntut_taste;TASTE\r\ntut_discard;DISCARD\r\
+ ntut_readnote;READ NOTE\r\n
+ tut_extinguisherOn;START EXTINGUISHING\r\
+ ntut_extinguisherOff;STOP EXTINGUISHING\r\
+ ntut_extinguisherStopFireOn;START PULVERIZING\r\
+ ntut_extinguisherStopFireOff;STOP PULVERIZING\r\
+ ntut_forkSqueeze;SQUEEZE\r\
+ ntut_forkRelease;RELEASE\r\
+ ntut_openPlateSpawner;BUY CHECKOUT PLATES\r\n;\r\
+ ndispl_Day;Day:\r\
+ ndispl_Time;Time:\r\
+ ndispl_Balance;Balance:\r\
+ ndispl_fame;Fame:\r\
+ ndispl_SaveTime;Save time:\r\n;\r\
+ ntut_navigate;Navigate\r\
+ ntut_lookaround;Look\\naround\r\ntut_zoom;Zoom\r\
+ ntut_changesettings;Change\\nsettings\r\
+ ntut_screenshot;Take\\nscreenshot\r\
+ ntut_hideui;Hide UI\r\
+ ntut_resetsettings;Reset\\nsettings\r\
+ ntut_exitphoto;Exit\\nPhoto Mode\r\
+ ntut_revertphone;RETURN PHONE TO BASE\r\
+ ntut_enterCleaning;CLEAN\r\
+ ntut_fill_on;FILL\r\
+ ntut_fill_off;POUR\r\
+ ntut_turn_left_right;TURN LEFT/RIGHT\r\
+ ntut_crackegg;CRACK\r\
+ nfame_level;Fame level\r\
+ nfame_lvl;Fame lvl\r\
+ nexp_level;Experience level\r\
+ nexp_lvl;Exp. lvl\r\
+ nradio_nowplaying;NOW PLAYING on\r\
+ nby;by\r\nback;Back\r\
+ nback_special;< BACK\r\
+ nrepair_condition;Condition\r\
+ nrepair_cost;Cost\r\
+ nrepair_time;Time\r\
+ nrepair_cancel_onbutton;CANCEL\r\
+ nscore_up;SCORE\r\
+ nlayout_score;Decoration\r\
+ ntime_score;Realization time\r\
+ ntaste_score;Taste\r\
+ nfinal_score;Overall score\r\
+ ncontinue;Continue\r\
+ nback_to_menu;Back to menu\r\
+ nsettings;Settings\r\
+ nloadgame;Load game\r\
+ nsavegame;Save game\r\
+ nsounds_volume;Sounds volume\r\
+ nmusic_volume;Music volume\r\
+ nmp3_path;MP3 music path\r\
+ nmouse_sensitivity;Mouse sensitivity\r\
+ ntext_speed;Text speed\r\
+ nvsync_level;Vertical synchronization\r\
+ naniso_level;Anisotropic filtering\r\
+ nnewgame;New game\r\
+ nsandbox;Sandbox Mode\r\
+ ncredits;Credits\r\
+ nexitgame;Exit game\r\
+ ncookingschool;Cooking school\r\
+ nmainmenu_easy;Easy\r\
+ nmainmenu_medium;Medium\r\
+ nmainmenu_hard;Hard\r\
+ nmainmenu_back;Back\r\
+ nres_info_margin;Profit per dish\r\
+ nres_info_client;Client expectations\r\
+ nres_info_expectation_low;Low\r\
+ nres_info_expectation_medium;Medium\r\
+ nres_info_expectation_high;High\r\
+ nres_info_expectation_veryhigh;Very high!\r\
+ nres_info_total_meals_served;Total meals served\r\
+ nres_info_average_meal_rating;Average meal rating\r\
+ nres_info_highest_res_rank;Highest restaurant rank\r\
+ nres_info_highest_tip;Highest tip\r\
+ nres_info_total_distance_traveled;Total distance traveled\r\
+ nres_social_header_newest;NEWEST REVIEWS\r\
+ nres_social_guest_reviews;Guests' Reviews\r\
+ nres_social_critic_reviews;Critics' Reviews\r\
+ nres_social_guest_score;Guests' Score\r\
+ nres_social_critic_score;Critics' Score\r\
+ nres_social_reviews_summary_positive;Generally positive reviews based on <b>X reviews</b>\r\
+ nres_social_reviews_summary_mixed;Generally mixed reviews based on <b>X reviews</b>\r\
+ nres_social_reviews_summary_negative;Generally negative reviews based on <b>X reviews</b>\r\n;\r\
+ nres_finance_current_day;Current day\r\
+ nres_finance_last_week;Last week\r\
+ nres_finance_last_month;Last month\r\
+ nres_finance_all;All time\r\
+ nres_finance_balance;Balance\r\
+ nres_finance_loan;Loan\r\
+ nres_finance_deposit;Deposit\r\
+ nres_finance_logout;Log out\r\
+ nres_finance_take_loan;Take loan\r\
+ nres_finance_withdraw_money;Withdraw money\r\
+ nres_finance_deposit_summary;Welcome to your personal Savings Account. You can withdraw your money any time!\r\nres_finance_number_of_installments;Number of installments\r\nres_finance_days_between_installments;Days between installments\r\
+ nres_finance_installment_rate;Installment rate\r\
+ nres_finance_total_amount;Total amount\r\
+ nres_finance_amount_left;Amount left to repay\r\
+ nres_finance_days_to_next;Days to next installment\r\
+ nres_finance_deposit_taken;No more deposits!\r\
+ nres_finance_loan_taken;You already took one!\r\
+ nres_recipes_owned;Owned\r\
+ nres_recipes_not_owned;Not owned\r\
+ nres_recipes_meal_details;Meal details\r\
+ nres_perks_name;Self-improvement for chefs\r\npouring_outOf;Pouring\r\
+ npouring_into;Poured\r\
+ nmodule_light;Module Light\r\
+ npower;Fuse Box\r\nfan;Fan\r\
+ ntv;Display\r\
+ ntemperature_Cold;COLD\r\
+ ntemperature_Cool;COOL\r\
+ ntemperature_Warm;WARM\r\
+ ntemperature_Hot;HOT\r\
+ nphoto_filterintens;Filter intensity\r\
+ nphoto_filter;Filter\r\
+ nphoto_dofmode;Depth of field\r\
+ nphoto_dofrange;Depth of field range\r\
+ nphoto_dofdist;Depth of field distance\r\
+ nphoto_fov;Field of view\r\
+ nphoto_camtilt;Camera tilt\r\
+ nphoto_frame;Frame\r\
+ nphoto_logo;Logo\r\
+ nphoto_logosize;Logo size\r\
+ nsocial_app;RestauRank\r\
+ nfinance_app;CookBank - managing your finances\r\
+ nrecipes_app;Recipe Browser\r\
+ ncurrentBalanceN;Current balance\\n${0}\r\
+ nknownRecipesN;Known recipes: {0}/{1}\r\
+ nrinfo_app;Restaurant Info\r\
+ ndoors;Doors\r\
+ ninternet_radio;Internet Stream\r\
+ nmp3_player;MP3 Player\r\
+ ndeco_app;Comfy Kitchen - kitchen design app\r\
+ ndeco_BuyButton;Buy\r\
+ ndeco_ApplyButton;Apply\r\
+ ndeco_AppliedButton;Applied\r\n;\r\
+ nfailed_music_folder_path;Incorrect music folder path\r\
+ ninternet_cell_enter_url;Enter stream address\r\
+ ninternet_cell_enter_name;Enter own stream name\r\
+ ninternet_radio_without_streams;Empty playlist\r\
+ ndarts_choose_game;CHOOSE GAME\r\
+ ndarts_start_game;START GAME\r\
+ ndarts_abort_game;ABORT GAME\r\
+ ndarts_launch_game;INITIALIZE GAME\r\
+ ndarts_game_one_name;G501\r\
+ ndarts_game_two_name;G0\r\
+ nmp3_radio_without_music;Empty folder\r\
+ nboxofstuff_buy;Buy\r\
+ ngasoven_trick_front;KNOWING HOW TO COOK IS CRUCIAL. I DIDN'T KNOW THAT THEN!!! :)\r\
+ ngasoven_trick_back;Serving burnt food is bad, but serving undercooked food can be even worse. Sometimes not everything cooks evenly. Keep an eye out for any parts that aren't cooking as fast as the rest. You can always expand the view of your container to see the thermals of every product part individually.\r\
+ ngriddle_trick_front;GRIDDLE\r\
+ ngriddle_trick_back;Here, you mostly fry meat and fish - anything that doesn't require oil. Don't overdo it and you should be fine. Remember to turn products to the other side if the recipe says so. Mastering the Spatula is a good idea.\r\
+ ndarts_trick_front;BEAT MY SCORE.\r\
+ ndarts_trick_back;If you get bored you can practice knife throwing.\\nIn 501, you have 30 throws to get from 501 to 0 points.\\nIn 30X you have 30 throws to get as many points as possible. My high score is 600 points – try to beat me :)\\nJust no cheating - you have to stand at a certain distance - the light must be green.\r\
+ nfryier_trick_front;DON'T FORGET TO CHANGE THE OIL FREQUENTLY.\r\
+ nfryier_trick_back;"Fries are important. The Left Button fills the fryer; Right drains it. Remember to change the oil regularly; last time I forgot to do it for 3 months, and clients were writing some nonsense about using engine oil."\r\
+ ncooker_trick_front;I WILL NEVER AGAIN PUT A FIRE EXTINGUISHER INTO THE OVEN CHAMBER.\r\
+ ncooker_trick_back;Now you know how we lost our prestige and our oven. It's up to you to fix both. The oven is easy to manage – I suggest you make use of those metal plates. Remember to always heat the oven up before baking anything inside.\r\
+ nstoragestand_trick_front;WANNA TAKE MORE? BRING A CONTAINER.\r\
+ nstoragestand_trick_back;If you're not fond of running around the kitchen with a single tomato in hand, bring a container or a bowl with you. This will save you a lot of time.\r\
+ ndishstand_trick_front;TAKE ONLY IF YOU HAVE TO.\r\
+ ndishstand_trick_back;You take it - you pay for it. Don't ask why :) Just take it only when you need it.\r\
+ nboxstand_trick_front;HERE YOU WILL FIND EVERYTHING.\r\
+ nboxstand_trick_back;I haven't the slightest idea how those boxes can contain so much stuff :) However if you see one running off, best just ignore it.\r\
+ nlaptop_trick_front;PLAYING GAMES AT WORK IS FUN.\r\
+ nlaptop_trick_back;... it was fun until the police caught us for pirating games :) Now there's only boring stuff left – finances, recipes, decorations... The manager installed some self-improvement software, but I don't buy into that.\r\
+ nphone_trick_front;YOU'RE GONNA NEED THOSE NUMBERS.\r\
+ nphone_trick_back;It's a typical kitchen - things break down constantly. I've added the least expensive servicemen to the telephone's memory. Don't thank me. P.S. Think twice before hiring the cheapest ones.\r\
+ nradio_trick_front;THIS WILL KEEP YOU SANE.\r\
+ nradio_trick_back;I'd have dropped this job after a week if not for Hola Bossa Nova. There's some music uploaded, but make yourself at home and add your own. I've jury-rigged the old box to play internet radio stations too.\r\
+ ntv_trick_front;WE USED TO RIG THIS TO WATCH GAMES ON SUNDAYS.\r\
+ ntv_trick_back;"Seriously, don't do this :) These screens are really useful. You know what your clients ordered and how much time you've got left. The best thing is, you don't even have to memorize the recipes; everything's there, including pictures of dishes."\r\
+ nfinalstand_trick_front;FINISH LINE\r\
+ nfinalstand_trick_back;"Once you're done with a dish, bring it over here. Pick the order you want to send down to the waiter, but don't forget to take a picture first. Don't worry if it doesn't look exactly like in the recipe; I've heard those guys fake it with CG."\r\
+ nslicing_trick_front;NOW YOU KNOW WHY YOU ONLY HAVE ONE HAND.\r\
+ nslicing_trick_back;"Knives are sharp, but you already know something about that :) Place a product, take a knife and hope for the best. As my girlfriend always says, ""The shape doesn't matter as long as the size is right."" Just make sure nobody chokes."\r\
+ nmixer_trick_front;THIS IS MY FAVORITE.\r\
+ nmixer_trick_back;"All you need to do is throw stuff in and turn it on. You can actually tell what was inside – just give it a taste. But turn the blades off first; we don't want you losing another hand. "\r\
+ nmicrowave_trick_front;IN CASE OF AN EMERGENCY\r\
+ nmicrowave_trick_back;I remember serving the same pot of soup for two weeks straight and all the complaints I heard were about it being microwaved. You can feed 'em rubble and they'll praise you for the texture, but use this just to keep the food warm and they'll hunt you down.\r\
+ ngrill_trick_front;GRILL PARTY EVERY AFTERNOON – THOSE WERE THE DAYS.\r\
+ ngrill_trick_back;"What you're looking at is Soviet military-grade equipment; it packs quite a punch. Little wonder we can deal with meat in five seconds; just don't leave it on for too long. Oh, and the manly way to flip the meat is to use tongs, not the spatula."\r\
+ ndishes_trick_front;HANDLE WITH CARE\r\
+ ndishes_trick_back;"Be careful when handling these plates; they're pretty expensive. Don't break them. Only when the dish has been served will you get your money back."\r\
+ ndoor_trick_front;THERE IS NO ESCAPE.\r\
+ ndoor_trick_back;Resistance is futile.\r\
+ nclock_trick_front;YOU CAN'T TURN BACK TIME.\r\
+ nclock_trick_back;What you can do is move it forward. If you feel like you've got too much time on your hands, you can accelerate or skip a phase entirely. Just don't complain that you didn't have enough time to prepare.\r\
+ ndump_trick_front;NO DUMPSTER DIVING!\r\
+ ndump_trick_back;"Sorry, once something's in there, it's in there for good; that's our policy, so think twice before you dump something. Guests won't pay for what you've thrown away."\r\n;\r\
+ nhintorial_start;WELCOME TO THE KITCHEN\r\
+ nhintorial_start_desc;Welcome to Cooking Simulator. As you've already noticed, the restaurant you're now employed in does not have the greatest rating. Your task is to restore it to its former glory and reach the highest level of prestige. The last chef left the kitchen covered in sticky notes. Maybe they'll be of some use to you. Good luck!\r\
+ nhintorial_pickProduct;PICKING UP SEVERAL ELEMENTS AT ONCE\r\
+ nhintorial_pickProduct_desc;You can carry one thing at a time, but it's more efficient to transfer smaller elements into containers. Use the mouse's scroll wheel to increase the pick-up range. Remember, this only works when you have a container in your hand.\r\
+ nhintorial_pickTool;PRECISE TOOL HANDLING\r\
+ nhintorial_pickTool_desc;Precise handling of tools in the kitchen is crucial. Holding down SHIFT will open up new ways to manipulate whatever you are currently holding in your hand.\r\
+ nhintorial_notification;NOTIFICATIONS\r\
+ nhintorial_notification_desc;Look! Someone ordered a dish. Every time a client orders something, you will be notified in the upper left corner of the screen. Notifications will also appear when you have only a minute left to complete a dish, you're slightly late or when a client gives up waiting and goes home. To work then!\r\
+ nhintorial_notificationFamily;COMBO ORDER\r\
+ nhintorial_notificationFamily_desc;There's a bigger order coming up. A combo order generally consists of a few dishes that all need to be served together. Failing even one dish can cause a refund of the whole combo order.\r\
+ nhintorial_notificationCancel;CANCELLED ORDER\r\
+ nhintorial_notificationCancel_desc;Your guest hasn't received his dish on time and has decided to leave. I'm sure he'll write something nasty on social media, and the fame of this restaurant will suffer. Sometimes it's better to serve a dish, even poorly made, than to not serve at all.\r\
+ nhintorial_notificationReview;GUEST'S OPINION\r\
+ nhintorial_notificationReview_desc;Someone decided to describe his experience at your restaurant. You can check out what he wrote on the laptop by clicking the SOCIAL icon.\r\
+ nhintorial_notificationBroken;BREAKDOWN\r\
+ nhintorial_notificationBroken_desc;Nothing new. Kitchen equipment, though high quality, won't last forever. Time to order repairs. Just grab the phone from your desk, choose a service provider and order the repairs. Keep in mind that it's not just about the time and cost of the service – it's also about the quality.\r\
+ nhintorial_notificationFameLevel;FAME\r\
+ nhintorial_notificationFameLevel_desc;Prestige is important. The bigger the fame, the more clients you'll get, the more money you get... get it? There's a small catch though – star ratings are tough to acquire and easy to lose. If your fame drops too much, your star rating goes down. To move back up you'll have to pass the exam again.\r\
+ nhintorial_firstCash;MONEY\r\
+ nhintorial_firstCash_desc;Try not to go bankrupt. Almost everything in the kitchen costs money - plates, products and especially repairs. Don't take more than you need and keep an eye on your balance – once you're out of money, you're out of business.\r\
+ nfinal_tut_tasteH;Taste\r\
+ nfinal_tut_taste;Determined by the technical and thermal quality of the dish\r\
+ nfinal_tut_fameH;Fame\r\
+ nfinal_tut_fame;How many fame points were given for this dish? The better the restaurant, the higher the quality of dishes you need to prepare to earn any fame. Poorly-made meals will lower your fame rating.\r\
+ nfinal_tut_cpointsH;Cooking Points\r\
+ nfinal_tut_cpoints;How many points do you need to learn new dishes? The better you cook, the quicker you can unlock new recipes.\r\
+ nfinal_tut_paidH;Guest paid\r\
+ nfinal_tut_paid;Sum paid for the dish by the client\r\
+ nfinal_tut_tipH;Tip\r\
+ nfinal_tut_tip;A sign that the client liked his dish\r\
+ nfinal_tut_refund;Unhappy guest. You can reimburse him, assuage his anger, or ignore him. Remember that every decision has its consequences.\r\
+ nfinalWindow_customerPaid;Guest paid\r\
+ nfinalWindow_tip;Tip\r\
+ nfinalWindow_containerBack;Plate returned\r\
+ nfinalWindow_sum;Total\r\n;\r\
+ nnewfamelevel;New fame level!\r\
+ ntooltip_info;Set up logo and profit margin, view statistics\r\
+ ntooltip_recipes;View and unlock recipes and recipe upgrades\r\
+ ntooltip_social;See what the guests think about your cooking\r\
+ ntooltip_design;Change the appearance of your kitchen\r\
+ ntooltip_money;View your account history or take a loan\r\
+ ntooltip_cpoints;Points used to unlock new recipes\r\
+ ntooltip_perksystem;Buy perks to improve your skills\r\
+ nsettings_general;General\r\
+ nsettings_audio;Audio\r\
+ nsettings_video;Video\r\
+ nsettings_lang;Language\r\
+ nvsync_0;Don't sync\r\
+ nvsync_1;Every V Blank\r\
+ nvsync_2;Second V Blank\r\
+ naniso_0;Disabled\r\
+ naniso_1;Per Texture\r\
+ naniso_2;Forced On\r\
+ nsettings_shadowRes;Shadow resolution\r\
+ nsettings_restorenotes;Restore tutorial notes\r\
+ nsettings_restorehints;Restore tutorial windows\r\
+ nsettings_enableHintorial;Enable tutorial\r\
+ nsettings_enableContext;Enable context control mode\r\
+ nsettings_joystickType;Controller type\r\
+ njoyType_0;Auto\r\
+ njoyType_1;PS4\r\
+ njoyType_2;XBOX ONE\r\
+ njoyType_3;XBOX 360\r\
+ nsettings_toDefault;Set to default\r\
+ nsettings_loadFromPath;Load\r\
+ nsettings_addStream;Add\r\
+ nsavegame_defaultFilePrefix;Save\r\
+ nsave_deleteWarning;Are you sure?\r\n;\r\
+ ncredits_gameby;a game by\r\
+ ncredits_designers;Designers\r\
+ ncredits_programmers;Programmers\r\
+ ncredits_3d_artists;3D Artists\r\
+ ncredits_2d_artists;2D Artists\r\
+ ncredits_vfx;VFX Artists\r\
+ ncredits_3party;Third party software used:\r\n;\r\
+ nsave_remove;Remove\r\
+ nsave_save;Save\r\
+ nsave_load;Load\r\
+ nsave_cancel;Cancel\r\
+ nsave_overwrite;Overwrite\r\
+ nsave_saveheader;Save Game\r\
+ nsave_loadheader;Load Game\r\
+ nsave_newLabel;New Save\r\
+ nsave_instructions;Write a name for a new save file\r\
+ nsave_warning;You are about to overwrite a save file. Are you sure?\r\
+ nsave_daynumber;Day:\r\n;\r\
+ ndesignH_FLOOR;Floor\r\
+ ndesignH_WALL_0;Tiles\r\
+ ndesignH_WALL_1;Top Wall\r\
+ ndesignH_WALL_2;Bricks\r\
+ ndesignH_CEILING;Ceiling\r\n;\r\
+ nassurance_Perk;Assurance\r\
+ nacceleration_Perk;Acceleration\r\
+ nexperience_Perk;Experience\r\n;\r\
+ nFameOnRefund;Save Fame On Refund\r\
+ nFameOnRefund_0_name;Refund {0} fame\r\
+ nFameOnRefund_1_name;Refund {0} fame\r\
+ nFameOnRefund_2_name;Refund {0} fame\r\
+ nFameOnRefund_0_description;Lowers fame penalty by {0} on refunded orders\r\
+ nFameOnRefund_1_description;Lowers fame penalty by {0} on refunded orders\r\
+ nFameOnRefund_2_description;Lowers fame penalty by {0} on refunded orders\r\
+ nCreditPerk;Take Loans\r\
+ nCreditPerk_0_name;Loan option {0}\r\
+ nCreditPerk_1_name;Loan option {0}\r\
+ nCreditPerk_2_name;Loan option {0}\r\
+ nCreditPerk_0_description;Loans up to {0} become available.\r\
+ nCreditPerk_1_description;Loans up to {0} become available.\r\
+ nCreditPerk_2_description;Loans up to {0} become available.\r\n;\r\
+ nLowerRefundOnMultiOrder;Lower Multi-Order Refunds\r\
+ nLowerRefundOnMultiOrder_0_name;Refunds {0}% of good dishes\r\
+ nLowerRefundOnMultiOrder_1_name;Refunds {0}% of good dishes\r\
+ nLowerRefundOnMultiOrder_2_name;Refunds {0}% of good dishes\r\
+ nLowerRefundOnMultiOrder_0_description;Refunds only {0}% of the cost of the dishes that were made well and normally wouldn't require a refund. Dishes that require a refund are still fully refunded.\r\
+ nLowerRefundOnMultiOrder_1_description;Refunds only {0}% of the cost of the dishes that were made well and normally wouldn't require a refund. Dishes that require a refund are still fully refunded.\r\
+ nLowerRefundOnMultiOrder_2_description;Refunds only {0}% of the cost of the dishes that were made well and normally wouldn't require a refund. Dishes that require a refund are still fully refunded.\r\n;\r\
+ nHighRiskHighReward;High Risk High Reward\r\
+ nHighRiskHighReward_0_name;Fame rewards higher by {0}%\r\
+ nHighRiskHighReward_1_name;Fame rewards higher by {0}%\r\
+ nHighRiskHighReward_2_name;Fame rewards higher by {0}%\r\
+ nHighRiskHighReward_0_description;Earn much higher (by {0}%) fame rewards – risk slightly higher fame penalties\r\
+ nHighRiskHighReward_1_description;Earn much higher (by {0}%) fame rewards – risk slightly higher fame penalties\r\
+ nHighRiskHighReward_2_description;Earn much higher (by {0}%) fame rewards – risk slightly higher fame penalties\r\n;\r\
+ nStreakPerk;Winning Streak\r\
+ nStreakPerk_0_name;Fame streak - {0} points\r\
+ nStreakPerk_1_name;Fame streak - {0} points\r\
+ nStreakPerk_2_name;Fame streak - {0} points\r\
+ nStreakPerk_0_description;Each order in a 4+ Star Streak (consecutive orders with a rating of no less than 4 stars) results in {0} bonus fame points.\r\
+ nStreakPerk_1_description;Each order in a 4+ Star Streak (consecutive orders with a rating of no less than 4 stars) results in {0} bonus fame points.\r\
+ nStreakPerk_2_description;Each order in a 4+ Star Streak (consecutive orders with a rating of no less than 4 stars) results in {0} bonus fame points.\r\n;\r\
+ nBetterTips;Better Tips\r\
+ nBetterTips_0_name;Increase tips by {0}%\r\
+ nBetterTips_1_name;Increase tips by {0}%\r\
+ nBetterTips_2_name;Increase tips by {0}%\r\
+ nBetterTips_0_description;Each time you earn a tip, it's bigger by {0}%.\r\
+ nBetterTips_1_description;Each time you earn a tip, it's bigger by {0}%.\r\
+ nBetterTips_2_description;Each time you earn a tip, it's bigger by {0}%.\r\n;\r\
+ nRecipeDiscount;Recipe Discount\r\
+ nRecipeDiscount_0_name;Lower recipe prices by {0}%\r\
+ nRecipeDiscount_1_name;Lower recipe prices by {0}%\r\
+ nRecipeDiscount_2_name;Lower recipe prices by {0}%\r\
+ nRecipeDiscount_0_description;Each recipe is now cheaper to unlock by {0}%.\r\
+ nRecipeDiscount_1_description;Each recipe is now cheaper to unlock by {0}%.\r\
+ nRecipeDiscount_2_description;Each recipe is now cheaper to unlock by {0}%.\r\n;\r\
+ nPartsDiscount;Product Discount\r\
+ nPartsDiscount_0_name;Lower product prices by {0}%\r\
+ nPartsDiscount_1_name;Lower product prices by {0}%\r\
+ nPartsDiscount_2_name;Lower product prices by {0}%\r\
+ nPartsDiscount_0_description;Each product is now cheaper to buy by {0}%, but doesn't cost less than 1.\r\
+ nPartsDiscount_1_description;Each product is now cheaper to buy by {0}%, but doesn't cost less than 1.\r\
+ nPartsDiscount_2_description;Each product is now cheaper to buy by {0}%, but doesn't cost less than 1.\r\n;\r\
+ nRepairPerk;Faster Repairs\r\
+ nRepairPerk_0_name;Repairs faster by {0}%\r\
+ nRepairPerk_1_name;Repairs faster by {0}%\r\
+ nRepairPerk_2_name;Repairs faster by {0}%\r\
+ nRepairPerk_0_description;Each ordered repair will take {0}% time less.\r\
+ nRepairPerk_1_description;Each ordered repair will take {0}% time less.\r\
+ nRepairPerk_2_description;Each ordered repair will take {0}% time less.\r\n;\r\
+ nDecorationDiscount;Decoration Discount\r\
+ nDecorationDiscount_0_name;Decorations cost {0}% less\r\
+ nDecorationDiscount_1_name;Decorations cost {0}% less\r\
+ nDecorationDiscount_2_name;Decorations cost {0}% less\r\
+ nDecorationDiscount_0_description;Each decoration will cost {0}% less to unlock.\r\
+ nDecorationDiscount_1_description;Each decoration will cost {0}% less to unlock.\r\
+ nDecorationDiscount_2_description;Each decoration will cost {0}% less to unlock.\r\n;\r\
+ nUnlock_LVL;Upgrade\r\
+ nMax_LVL;Maxed out\r\n;\r\
+ ncontainer_201;Small Plate, Modern\r\
+ ncontainer_203;Small Plate, Modern\r\
+ ncontainer_202;Bowl, Modern\r\
+ ncontainer_204;Plate, Modern\r\
+ ncontainer_207;Plate, Modern\r\
+ ncontainer_205;Square Plate, Modern\r\
+ ncontainer_206;Deep Plate, Modern\r\
+ ncontainer_208;Casserole, Modern\r\
+ ncontainer_209;Bowl, Modern\r\
+ ncontainer_210;Large Plate, Modern\r\
+ ncontainer_200;Large Plate, Modern\r\n;\r\
+ ntasting_tasting;Tasting\r\
+ ntasting_soup;Soup\r\
+ ncontext_0;ENTER CONTEXT\r\
+ ncontext_1;SHAKE\r\
+ ncontext_2;SEASON WITH SPICE\r\
+ ncontext_3;ROTATE AROUND\r\
+ ncontext_4;ROTATE FORWARD\r\
+ ncontext_5;MOVE DOWN\r\
+ ncontext_6;MOVE UP\r\
+ ncontext_7;TILT THE BOTTLE\r\
+ ncontext_8;HOLD TO REGULATE ANGLE\r\
+ ncontext_9;SELECT PRODUCT\r\
+ ncontext_10;HOLD TO ROTATE\r\
+ ncontext_11;DROP\r\
+ ncontext_12;RESET POSITION\r\
+ ncontext_13;CUT\r\
+ ncontext_14;BACK\r\
+ ncontext_15;SWITCHES 1-9\r\
+ ncontext_16;ROTATE RIGHT\r\
+ ncontext_17;ROTATE LEFT\r\
+ ncontext_18;ROTATE UP\r\
+ ncontext_19;ROTATE DOWN\r\
+ ncontext_exit;CANCEL\r\
+ ncontext_RotateY;ROTATE Y\r\
+ ncontext_RotateZ;ROTATE Z\r\
+ ncontext_Set;SET\r\
+ ncontext_up;MOVE UP\r\
+ ncontext_down;MOVE DOWN\r\
+ ncontext_camL;ROTATE CAMERA LEFT\r\
+ ncontext_camR;ROTATE CAMERA RIGHT\r\
+ ncontext_Sink1;ROTATE FAUCET\r\
+ ncontext_Sink2;LEFT HANDLE\r\
+ ncontext_Sink3;RIGHT HANDLE\r\
+ ncontext_UD;MOVE UP/DOWN\r\n;\r\
+ nsorted_by;Order by\r\
+ nsortby_Name;Name (A-Z)\r\
+ nsortby_NameDescending;Name (Z-A)\r\
+ nsortby_Price;Price (asc.)\r\
+ nsortby_PriceDescending;Price (desc.)\r\
+ nsortby_switch;CHANGE SORTING MODE\r\n;\r\
+ ncontainer_stacking;SWITCH STACKING\r\
+ nproduct_stacking;SWITCH SPICE VIEW\r\
+ nbutton_apply;Apply\r\
+ npause_header;Pause\r\
+ nbutton_cancel;Cancel\r\
+ nbutton_open;Open\r\
+ nbutton_start;Start\r\n;\r\
+ nheader_store;Grocery\r\
+ nheader_plates;Checkout Plates\r\
+ nsettings_header;Settings\r\n;\r\
+ ncookschool_header;Cooking School\r\
+ ncookschool_lessontitle_0;Basic Tour\r\
+ ncookschool_lessondesc_0;Get to know your workplace!\r\
+ ncookschool_lessontitle_1;Buying\r\
+ ncookschool_lessondesc_1;Learn all there is to buying items.\r\
+ ncookschool_lessontitle_2;Cutting\r\
+ ncookschool_lessondesc_2;Practice makes prefect.\r\
+ ncookschool_lessontitle_3;Fluids\r\
+ ncookschool_lessondesc_3;Blending and boiling\r\
+ ncookschool_lessontitle_4;Sauces and Spices\r\
+ ncookschool_lessondesc_4;How to spice things up and not make a mess\r\
+ ncookschool_lessontitle_5;Example dish\r\
+ ncookschool_lessondesc_5;Guide through the process of making and serving a dish.\r\
+ ncookschool_lessontitle_6;Kitchen displays\r\
+ ncookschool_lessondesc_6;How to use kitchen displays\r\
+ ncookschool_lessontitle_7;Laptop\r\
+ ncookschool_lessondesc_7;Guide to all functions of the laptop\r\n;\r\
+ nday_number_prefix;Day\r\
+ nradio_column_name;Name\r\
+ nradio_column_adress;Address\r\n;\r\
+ nintercom_EVENT_SANDBOX_WELCOME;Welcome to Sandbox Mode!\r\
+ nintercom_EVENT_SANDBOX_MOREINFO;All workstations, ingredients and recipes are unlocked. You can start an order using the laptop. Have fun!\r\n;\r\n;\r\
+ nintercom_EVENT_SERVING_START_0;"We've opened the doors; the first guests should arrive shortly."\r\
+ nintercom_EVENT_SERVING_START_1;We're open for business. First orders should arrive any moment now.\r\
+ nintercom_EVENT_SERVING_START_2;"The restaurant is now open; we'll be taking first orders in a moment. "\r\
+ nintercom_EVENT_SERVING_START_3;We're open. Expect orders to come in soon.\r\n;\r\
+ nintercom_EVENT_SERVING_END_0;We've finished taking orders. Finish up and start cleaning the kitchen.\r\
+ nintercom_EVENT_SERVING_END_1;We're no longer taking orders today. Finish what you've started and get ready for tomorrow.\r\
+ nintercom_EVENT_SERVING_END_2;This was the last order for today. When you're done, prepare for tomorrow.\r\
+ nintercom_EVENT_SERVING_END_3;"Once you finish, we're closing down for the night; no more new orders."\r\n;\r\n;\r\
+ nintercom_EVENT_RECIPE_OF_THE_DAY_FIRST_0;Our guests are more likely to order a dish of the day, but don't be surprised if they choose something else from the menu.\r\n;\r\n;\r\
+ nintercom_EVENT_BOOKING_READY_0;Table of {0} just walked in. Prepare for their order.\r\
+ nintercom_EVENT_BOOKING_READY_1;Booking for {0} arrived. They'll be ordering any minute now.\r\
+ nintercom_EVENT_BOOKING_READY_2;Reservation for {0} is here. They're pondering the menu.\r\n;\r\n;\r\
+ nintercom_EVENT_BOOKING_HAPPY_0;Great job. The whole table was impressed by your cooking.\r\
+ nintercom_EVENT_BOOKING_HAPPY_1;Well done. The guests had a wonderful time, thanks to you.\r\
+ nintercom_EVENT_BOOKING_HAPPY_2;That table just asked me to compliment the chef.\r\
+ nintercom_EVENT_BOOKING_UNHAPPY_0;That table just kept talking about how terrible the food was.\r\
+ nintercom_EVENT_BOOKING_UNHAPPY_1;"The table just left without touching your ""food."" I don't think they're coming back."\r\
+ nIntercom_EVENT_BOOKING_UNHAPPY_2;"The guests said that, I quote: ""A trained monkey once served them better food than you did."""\r\n;\r\
+ nintercom_EVENT_CONTEST_TOMORROW_0;({0}) is coming! Of course, I've signed us up. The event will be held tomorrow.\r\
+ nintercom_EVENT_CONTEST_TOMORROW_1;({0}) is tomorrow. I've pulled some strings and they added us to the list! Are you excited?\r\
+ nintercom_EVENT_CONTEST_TOMORROW_2;"There's a contest coming, ({0}). Prepare yourself for tomorrow; we've got to snatch 1st place."\r\
+ nintercom_EVENT_CONTEST_TOMORROW_FIRST_0;It's your first contest so I'll explain. Our menu will be restricted to fit the theme of the event. We're competing against other restaurants. At the end of the day, the winner gets a prize.\r\n;\r\
+ nintercom_EVENT_CONTEST_DAYSTART_0;"Remember today is ({0}); the menu has been adjusted. Good luck. Keep up the good work and watch out for the judge."\r\
+ nintercom_EVENT_CONTEST_DAYSTART_1;({0}). We're serving a different menu. Every satisfied client counts. At the end of the day, they'll decide on our score.\r\
+ nintercom_EVENT_CONTEST_DAYSTART_FIRST_0;How does it work? The guests and a judge will rate your cooking throughout the day. At the end of the day, your score will be compared to that of the other restaurants.\r\n;\r\
+ nintercom_EVENT_CONTEST_DAYEND_0;"The results are in; we've scored ({0})!"\r\
+ nintercom_EVENT_CONTEST_DAYEND_1;"They've tallied up the numbers; we've ended up with a score of ({0})!"\r\
+ nintercom_EVENT_CONTEST_DAYEND_2;"The contest is over; the guests have spoken; they've rated us at ({0})!"\r\n;\r\
+ nintercom_EVENT_CONTEST_GOURMET_SCORING_0;The judge is here. His order will be up next. His vote is worth more than a regular rating, so do your best.\r\
+ nintercom_EVENT_CONTEST_GOURMET_SCORING_1;Next up is the judge's order. If you disappoint him, we can wave goodbye to first place.\r\
+ nintercom_EVENT_CONTEST_GOURMET_SCORING_2;Focus. The judge is about to order. You have to impress him if we're to win this contest.\r\n;\r\
+ nintercom_EVENT_CONTEST_GOLD_0;Yes! You did it! We're the best in town!\r\
+ nintercom_EVENT_CONTEST_GOLD_1;We're number one! All thanks to you!\r\
+ nintercom_EVENT_CONTEST_GOLD_2;Well, I'm impressed. First place. Bravo!\r\n;\r\
+ nintercom_EVENT_CONTEST_PODIUM_0;Great job! I'm proud of you!\r\
+ nintercom_EVENT_CONTEST_PODIUM_1;Nice! We're up there with the best.\r\
+ nintercom_EVENT_CONTEST_PODIUM_2;Well done. You didn't embarrass us like I expected.\r\n;\r\
+ nintercom_EVENT_CONTEST_BEHIND_PODIUM_0;Ah, we were so close.\r\
+ nintercom_EVENT_CONTEST_BEHIND_PODIUM_1;Nice. Don't worry, we'll win next time.\r\
+ nintercom_EVENT_CONTEST_BEHIND_PODIUM_2;Well, it's still better than I expected.\r\n;\r\
+ nintercom_EVENT_CONTEST_AVERAGE_PLACE_0;Don't worry, we'll do better next time.\r\
+ nintercom_EVENT_CONTEST_AVERAGE_PLACE_1;Well, at least we know where we are.\r\
+ nintercom_EVENT_CONTEST_AVERAGE_PLACE_2;Well, what did you expect?\r\n;\r\
+ nintercom_EVENT_CONTEST_LAST_PLACE_0;Well, that's disappointing.\r\
+ nintercom_EVENT_CONTEST_LAST_PLACE_1;Are we really that bad?\r\
+ nintercom_EVENT_CONTEST_LAST_PLACE_2;As I expected...\r\n;\r\
+ nintercom_EVENT_CREDIT_INSTALLMENT_0;A credit payment has been deducted from our account.\r\
+ nintercom_EVENT_CREDIT_LAST_PAYMENT_0;That was the last installment. We're free of debt!\r\n;\r\
+ nintercom_CUSTOM_0;{0}\r\n;\r\
+ nRefunded;It was terrible, but at least I got a refund, which is nice.\r\
+ nNotRefunded;Such a terrible experience. And I haven't even got my money back!\r\
+ nDishPrettyNeat;This meal was pretty good. I'm impressed.\r\
+ nDishReallyGood;This meal was AMAZING. I'll definitely come back soon!\r\n;\r\
+ nquality_type;Video quality\r\
+ nquality_0;Very low\r\
+ nquality_1;Low\r\
+ nquality_2;Medium\r\
+ nquality_3;High\r\
+ nquality_4;Very high\r\
+ nquality_5;Ultra\r\
+ nsetting_on;On\r\
+ nsetting_off;Off\r\
+ nantialiasing;Antialiasing\r\
+ nambient_occlusion;Ambient occlusion\r\
+ nreflections;Reflections\r\
+ nbloom;Bloom\r\
+ nquality_custom;Custom\r\
+ nparticle_systems;Effects\r\n;\r\
+ ntut_button_phys;PRESS\r\
+ ntut_turn_on;TURN ON\r\
+ ntut_turn_off;TURN OFF\r\
+ ntut_fill_frier;FILL\r\
+ ntut_drain_frier;DRAIN\r\
+ ntut_liquid_pour;POUR\r\
+ ntut_gen_open;OPEN\r\
+ ntut_gen_close;CLOSE\r\
+ ntut_place_container;PLACE CONTAINER\r\
+ ntut_buy_supplies;BUY SUPPLIES\r\
+ ntut_throw;THROW\r\
+ ntut_operate;ADVANCED CONTROLS\r\
+ ntut_move;MOVE\r\
+ ntut_rotate;ROTATE\r\
+ ntut_drop;DROP\r\
+ ntut_transfer;TRANSFER\r\
+ ntut_move_vertically;MOVE VERTICALLY\r\n;\r\
+ ncomponent_102200;Fried Shrimp\r\
+ ncomponent_102201;Lemon Quarters\r\
+ ncomponent_102401;Lemon Quarters\r\
+ ncomponent_102902;Lemon Quarters\r\
+ ncomponent_103501;Lemon Quarters\r\
+ ncomponent_102202;Parsley Garnish\r\
+ ncomponent_102302;Parsley Garnish\r\
+ ncomponent_102402;Parsley Garnish\r\
+ ncomponent_102903;Parsley Garnish\r\
+ ncomponent_103002;Parsley Garnish\r\
+ ncomponent_103802;Parsley Garnish\r\
+ ncomponent_104501;Parsley Garnish\r\
+ ncomponent_104601;Parsley Garnish\r\
+ ncomponent_106002;Parsley Garnish\r\
+ ncomponent_106102;Parsley Garnish\r\
+ ncomponent_107501;Parsley Garnish\r\
+ ncomponent_102300;Baked Cod\r\
+ ncomponent_103800;Baked Cod\r\
+ ncomponent_102301;Lemon Slices\r\
+ ncomponent_103901;Lemon Slices\r\
+ ncomponent_102400;Baked Trout\r\
+ ncomponent_102900;Baked Trout\r\
+ ncomponent_102500;Steak\r\
+ ncomponent_105700;Steak\r\
+ ncomponent_102501;French Fries\r\
+ ncomponent_105001;French Fries\r\
+ ncomponent_102502;Rosemary Garnish\r\
+ ncomponent_102802;Rosemary Garnish\r\
+ ncomponent_105302;Rosemary Garnish\r\
+ ncomponent_105403;Rosemary Garnish\r\
+ ncomponent_105602;Rosemary Garnish\r\
+ ncomponent_105702;Rosemary Garnish\r\
+ ncomponent_106902;Rosemary Garnish\r\
+ ncomponent_102600;Gazpacho\r\
+ ncomponent_102601;Chives Garnish\r\
+ ncomponent_103601;Chives Garnish\r\
+ ncomponent_103701;Chives Garnish\r\
+ ncomponent_107601;Chives Garnish\r\
+ ncomponent_102700;Pork Chops\r\
+ ncomponent_105500;Pork Chops\r\
+ ncomponent_102701;Baked Potatoes\r\
+ ncomponent_105301;Baked Potatoes\r\
+ ncomponent_105401;Baked Potatoes\r\
+ ncomponent_102800;Pork Tenderloin\r\
+ ncomponent_105600;Pork Tenderloin\r\
+ ncomponent_102801;Caramelized Vegetables\r\
+ ncomponent_105603;Caramelized Vegetables\r\
+ ncomponent_102901;Roasted Brussels Sprouts\r\
+ ncomponent_103000;Pasta\r\
+ ncomponent_105800;Pasta\r\
+ ncomponent_106400;Pasta\r\
+ ncomponent_106500;Pasta\r\
+ ncomponent_106600;Pasta\r\
+ ncomponent_106700;Pasta\r\
+ ncomponent_106800;Pasta\r\
+ ncomponent_106900;Pasta\r\
+ ncomponent_103001;Sauce\r\
+ ncomponent_105801;Sauce\r\
+ ncomponent_106401;Sauce\r\
+ ncomponent_106501;Sauce\r\
+ ncomponent_106601;Sauce\r\
+ ncomponent_106701;Sauce\r\
+ ncomponent_106801;Sauce\r\
+ ncomponent_106901;Sauce\r\
+ ncomponent_103100;Pumpkin Soup\r\
+ ncomponent_107700;Pumpkin Soup\r\
+ ncomponent_107800;Pumpkin Soup\r\
+ ncomponent_103200;Ukrainian Borscht\r\
+ ncomponent_108200;Ukrainian Borscht\r\
+ ncomponent_103300;Bruschetta\r\
+ ncomponent_103402;Bruschetta\r\
+ ncomponent_103301;Tomato Dressing\r\
+ ncomponent_103403;Tomato Dressing\r\
+ ncomponent_103400;Shrimp Salad\r\
+ ncomponent_103401;Dill Garnish\r\
+ ncomponent_104402;Dill Garnish\r\
+ ncomponent_108201;Dill Garnish\r\
+ ncomponent_103500;Fried Garlic Shrimp\r\
+ ncomponent_103502;Croutons\r\
+ ncomponent_107801;Croutons\r\
+ ncomponent_103600;Potato Salad\r\
+ ncomponent_103700;Smokey Potato Salad\r\
+ ncomponent_103801;Greek Salad\r\
+ ncomponent_103900;Grilled Tuna Steak\r\
+ ncomponent_104000;Grilled Tuna Steak\r\
+ ncomponent_103902;Oregano Garnish\r\
+ ncomponent_104002;Oregano Garnish\r\
+ ncomponent_106302;Oregano Garnish\r\
+ ncomponent_104001;Sicilian Orange Salad\r\
+ ncomponent_104100;Salmon Fillet\r\
+ ncomponent_104200;Salmon Fillet\r\
+ ncomponent_104101;Boiled Asparagus\r\
+ ncomponent_104201;Norwegian Butter Sauce\r\
+ ncomponent_104202;Grilled Asparagus\r\
+ ncomponent_104300;Salmon Steak\r\
+ ncomponent_104400;Salmon Steak\r\
+ ncomponent_104301;Boiled Potatoes\r\
+ ncomponent_104401;Boiled Potatoes\r\
+ ncomponent_104403;Grilled Tomatoes\r\
+ ncomponent_104500;Fried Shrimp Boil\r\
+ ncomponent_104600;Baked Shrimp Boil\r\
+ ncomponent_104700;Baked Chicken Leg\r\
+ ncomponent_104701;Caprese Salad\r\
+ ncomponent_104801;Caprese Salad\r\
+ ncomponent_104702;Basil Garnish\r\
+ ncomponent_104803;Basil Garnish\r\
+ ncomponent_108001;Basil Garnish\r\
+ ncomponent_108103;Basil Garnish\r\
+ ncomponent_104800;Marinated Chicken Leg\r\
+ ncomponent_104802;Balsamic Garnish\r\
+ ncomponent_104900;Hamburger\r\
+ ncomponent_105000;Honey-Mustard Hamburger\r\
+ ncomponent_105100;Fried Duck Breast\r\
+ ncomponent_105200;Fried Duck Breast\r\
+ ncomponent_105101;Pan Sauce\r\
+ ncomponent_105201;Pan Sauce\r\
+ ncomponent_105202;Roasted Mushrooms\r\
+ ncomponent_105300;Grilled Beef Chuck\r\
+ ncomponent_105400;Grilled Beef Chuck\r\
+ ncomponent_105402;Garlic Sauce\r\
+ ncomponent_105501;Lemon Baked Potatoes\r\
+ ncomponent_105502;Thyme Garnish\r\
+ ncomponent_105601;Mustard Sauce\r\
+ ncomponent_105701;Barbecue Sauce\r\
+ ncomponent_105703;Deep-fried vegetables\r\
+ ncomponent_105802;Diced Chili Pepper\r\
+ ncomponent_105900;Noodles\r\
+ ncomponent_106000;Noodles\r\
+ ncomponent_105901;Fast Beef Stroganoff\r\
+ ncomponent_106001;Beef Stroganoff\r\
+ ncomponent_106101;Beef Stroganoff\r\
+ ncomponent_106100;Buttered Noodles\r\
+ ncomponent_106200;Fusilli\r\
+ ncomponent_106300;Fusilli\r\
+ ncomponent_106201;Neapolitan Sauce\r\
+ ncomponent_106301;Blended Neapolitan Sauce\r\
+ ncomponent_106502;Sage Garnish\r\
+ ncomponent_107000;Caldo Verde\r\
+ ncomponent_107100;Caldo Verde\r\
+ ncomponent_107200;Corn Chowder\r\
+ ncomponent_107300;Corn, Scallops and Bacon Chowder\r\
+ ncomponent_107400;Duck Broth\r\
+ ncomponent_107401;Boiled Duck Breast\r\
+ ncomponent_107500;Duck Consommé\r\
+ ncomponent_107600;Chunky Gazpacho\r\
+ ncomponent_107900;Tomato Soup\r\
+ ncomponent_108000;Red Pepper and Tomato Soup\r\
+ ncomponent_108100;Hot Red Pepper and Tomato Soup\r\
+ ncomponent_108101;Mozzarella Slices\r\
+ ncomponent_108102;Buttered Toast\r\
+ ncomponent_108300;Fast Ratatouille\r\
+ ncomponent_108400;Ratatouille\r\n;\r\
+ ndesc_Add_00_default;Add\r\
+ ndesc_Add_01_duckBreast;Add [xg] of boiled Duck Breast into the bowl\r\
+ ndesc_Add_02_baconCorn;Add Bacon and Corn to the pot\r\
+ ndesc_Add_03_cutVege;Add cut vegetables\r\
+ ndesc_Add_04_mozzarella;Add Mozzarella Slices and Buttered Toast\r\
+ ndesc_Add_05_oreganoBakingTray;Add Oregano, Fresh [xg] to the Baking Tray\r\
+ ndesc_Add_06_toBakingTray;Add to a Baking Tray\r\
+ ndesc_Add_07_toBowl;Add to a Bowl\r\
+ ndesc_Add_08_toPan;Add to a Pan\r\
+ ndesc_Add_09_toPot;Add to a Pot\r\
+ ndesc_Add_10_toTBowl;Add to the Bowl\r\
+ ndesc_Add_11_toTFoodProcessor;Add to the Food Processor\r\
+ ndesc_Add_12_toTMixture;Add to the Mixture\r\
+ ndesc_Add_13_toTPan;Add to the Pan\r\
+ ndesc_Add_14_toTPot;Add to the Pot\r\
+ ndesc_Bake_01;Bake for [xmin]\r\
+ ndesc_Bake_02_burgerBuns;Bake Burger Buns [xg] for [xmin]\r\
+ ndesc_Blend_01;Blend\r\
+ ndesc_Blend_02_foodProcessor;Blend in a food processor:\r\
+ ndesc_BlendedMixture_01;Blended mixture\r\
+ ndesc_Boil_01_everything;Boil everything for [xmin]\r\
+ ndesc_Boil_02_for;Boil for [xmin]\r\
+ ndesc_Boiled_01_BrusselsSprouts;Boiled Brussels Sprouts [xg]\r\
+ ndesc_Boiled_02_BrusselsSproutsBroccoli;Boiled Brussels Sprouts [xg], Broccoli [xg]\r\
+ ndesc_Boiled_03_CornPotatoes;Boiled Corn [xg], Potatoes [xg]\r\
+ ndesc_Coat_01_eachSlice;Coat each Slice with\r\
+ ndesc_Cover_01_withSecondBun;Cover with the second Bun\r\
+ ndesc_Croutons_01;Croutons [xg]\r\
+ ndesc_Cut_01;Cut\r\
+ ndesc_Cut_02_intoSlices;Cut it into slices, [xg] each\r\
+ ndesc_DeepFry_01;Deep fry for [xmin]\r\
+ ndesc_Drain_01;Drain\r\
+ ndesc_Drizzle_01_contPanOver;Drizzle contents of the Pan over the Duck Breast\r\
+ ndesc_Drizzle_02_in;Drizzle in\r\
+ ndesc_Drizzle_03_overPotatoes;Drizzle Mixture [xml] over Potatoes\r\
+ ndesc_Drizzle_04_over;Drizzle over [x]\r\
+ ndesc_Drizzle_05_contBowlOver;Drizzle the contents of the bowl [xml] over the Bun\r\
+ ndesc_Drizzle_06_KetchupOver;Drizzle Ketchup [xml] over the Bun\r\
+ ndesc_Drizzle_07_MixtureOver;Drizzle the Mixture [xml] over [x]\r\
+ ndesc_Drizzle_08_with;Drizzle with [x]\r\
+ ndesc_EachServing_01;Each serving consists of\r\
+ ndesc_Finish_01_drizzling;Finish by drizzling in additional Olive Oil [xml]\r\
+ ndesc_fried_01_BaconScallops;fried Bacon [xg] and Scallops [xg]\r\
+ ndesc_fried_02_Sausage;fried Sausage [xg]\r\
+ ndesc_fried_03_SausageBacon;fried Sausage [xg] and Bacon [xg]\r\
+ ndesc_fry_01_BurgerMeatEachSide;Fry Burger Meat for [xmin] each side\r\
+ ndesc_fry_02_for;Fry for [xmin]\r\
+ ndesc_fry_03_forEachSide;Fry for [xmin] each side\r\
+ ndesc_garnish_01_with;Garnish with [x]\r\
+ ndesc_grill_01_sthFor;Grill [x] for [xmin]\r\
+ ndesc_grill_02_BeefChuck;Grill Beef Chuck for [xmin]\r\
+ ndesc_grill_03_forEachSide;Grill for [xmin] each side\r\
+ ndesc_grill_04_for;Grill for [xmin]\r\
+ ndesc_into_01_bits;into Bits [xg]\r\
+ ndesc_into_02_chunks;into Chunks [xg]\r\
+ ndesc_into_03_cubes;into Cubes [xg]\r\
+ ndesc_into_04_dice;into Dice [xg]\r\
+ ndesc_into_05_halvedSlices;into Halved Slices [xg]\r\
+ ndesc_into_06_halves;into Halves [xg]\r\
+ ndesc_into_07_pieces;into Pieces [xg]\r\
+ ndesc_into_08_quarters;into Quarters [xg]\r\
+ ndesc_into_09_slices;into Slices [xg]\r\
+ ndesc_into_10_smallCubes;into Small Cubes [xg]\r\
+ ndesc_into_11_sticks;into Sticks [xg]\r\
+ ndesc_into_12_strips;into Strips [xg]\r\
+ ndesc_into_13_thickSlices;into Thick Slices [xg]\r\
+ ndesc_into_14_thinSlices;into Thin Slices [xg]\r\
+ ndesc_leave_01_for;Leave for [xmin]\r\
+ ndesc_mixture_01_fromTBowl;Mixture [xml] from the Bowl\r\
+ ndesc_slice_01_oneOf;One Slice [xg] of\r\
+ ndesc_pieces_01;Pieces [xg]\r\
+ ndesc_place_01_burgerOnOnion;Place the Burger Meat on top of the Onion\r\
+ ndesc_place_02_cheddarOnBurger;Place the Cheddar Slice on top of the Burger Meat\r\
+ ndesc_place_03_onBakingTray;Place on a Baking Tray\r\
+ ndesc_place_04_oneBunOnPlate;Place one Bun on a Plate\r\
+ ndesc_place_05_onionOnBun;Place the Onion Slices on top of the Bun\r\
+ ndesc_place_06_tenderloinOnBakingTray;Place the Pork Tenderloin on a Baking Tray\r\
+ ndesc_place_07_potatoesOnBakingTray;Place the Potatoes [xg] on a Baking Tray\r\
+ ndesc_place_08_tomatoOnCheddar;Place the Tomato Slices on top of the Cheddar\r\
+ ndesc_plateUp_01;Plate up\r\
+ ndesc_pour_01_in;Pour in\r\
+ ndesc_pour_02_intoPot;Pour into a Pot\r\
+ ndesc_pour_03_overSalmon;Pour over Salmon\r\
+ ndesc_pour_04_contentsPanOverPotatoes;Pour the contents of the Pan over the Potatoes\r\
+ ndesc_pour_05_liquidIntoBowl;Pour the Liquid [xml] into a Bowl\r\
+ ndesc_pour_06_mixtureOverProducts;Pour the Mixture [xml] over the Products\r\
+ ndesc_pour_07_mixtureIntoPan;Pour the Mixture into a Pan\r\
+ ndesc_pour_08_mixtureOverSlices;Pour the Mixture over the Slices\r\
+ ndesc_reserve_01_water;Reserve Water\r\
+ ndesc_season_01_burgerWith;Season the Burger Meat with:\r\
+ ndesc_season_02_potatoesWith;Season the Potatoes with:\r\
+ ndesc_season_03_with;Season with\r\
+ ndesc_serve_01_cold;Serve cold\r\
+ ndesc_serve_02_cool;Serve cool\r\
+ ndesc_serve_03_hot;Serve hot\r\
+ ndesc_serve_04_warm;Serve warm\r\
+ ndesc_slices_01;Slices [xg]\r\
+ ndesc_soup_01;Soup [xml]\r\
+ ndesc_sprinkle_01_eachSliceWith;Sprinkle each Slice with\r\
+ ndesc_sprinkle_02_with;Sprinkle with\r\
+ ndesc_take_01_sth;Take [x]\r\
+ ndesc_take_02_duckBreastBroth;Take the Duck Breast from the Broth\r\
+ ndesc_transfer_01_toBakingTray;Transfer [x] to a Baking Tray.\r\
+ ndesc_transfer_02_asparagusOntoPlate;Transfer the Asparagus onto the Plate\r\
+ ndesc_transfer_03_vegiesIntoCasserole;Transfer the Baked Vegetables into the Casserole\r\
+ ndesc_transfer_04_chuckOntoPlate;Transfer the Beef Chuck onto a Plate\r\
+ ndesc_transfer_05_ChampignonBakingTray;Transfer the Champignon onto a Baking Tray\r\
+ ndesc_transfer_06_ChickenLegBakingTray;Transfer the Chicken Leg onto a Baking Tray\r\
+ ndesc_transfer_07_CodBakingTray;Transfer the Cod onto a Baking Tray\r\
+ ndesc_transfer_08_duckBreastPlate;Transfer Duck Breast onto a Plate\r\
+ ndesc_transfer_09_duckBreastPlate2;Transfer Duck Breast onto a Plate\r\
+ ndesc_transfer_10_eggplantBakingTray;Transfer Eggplant onto a Baking Tray\r\
+ ndesc_transfer_11_everythingBowl;Transfer everything into a Bowl\r\
+ ndesc_transfer_12_everythingCasserole;Transfer everything into the Casserole\r\
+ ndesc_transfer_13_everythingPlate;Transfer everything onto a Plate\r\
+ ndesc_transfer_14_fusilliBowl;Transfer Fusilli into a Bowl\r\
+ ndesc_transfer_15_fusilliPan;Transfer Fusilli into a Pan\r\
+ ndesc_transfer_16_garlicFoodProcessor;Transfer Garlic into Food Processor\r\
+ ndesc_transfer_17_intoBowl;Transfer into a Bowl\r\
+ ndesc_transfer_18_intoCasserole;Transfer into a Casserole\r\
+ ndesc_transfer_19_intoFoodProcessor;Transfer into the Food Processor\r\
+ ndesc_transfer_20_intoPan;Transfer into a Pan\r\
+ ndesc_transfer_21_intoPot;Transfer into a Pot\r\
+ ndesc_transfer_22_intoTBowl;Transfer into the Bowl\r\
+ ndesc_transfer_23_intoTCasserole;Transfer into the Casserole\r\
+ ndesc_transfer_24_intoTPan;Transfer into the Pan\r\
+ ndesc_transfer_25_intoTPot;Transfer into the Pot\r\
+ ndesc_transfer_26_ontoBakingTray;Transfer onto a Baking Tray\r\
+ ndesc_transfer_27_ontoPlate;Transfer onto a Plate\r\
+ ndesc_transfer_28_ontoBakingTray;Transfer onto the Baking Tray\r\
+ ndesc_transfer_29_ontoPlate;Transfer onto the Plate\r\
+ ndesc_transfer_30_penneIntoBowl;Transfer the Penne into a Bowl\r\
+ ndesc_transfer_31_potatoesOntoPlate;Transfer the Potatoes onto a Plate\r\
+ ndesc_transfer_32_potatoesOntoTPlate;Transfer the Potatoes onto the Plate\r\
+ ndesc_transfer_33_ontoDeepPlate;Transfer into a Deep Plate\r\
+ ndesc_transfer_34_everythingOntoDeepPlate;Transfer everything into a Deep Plate\r\
+ ndesc_garnish_01_useTo;Use to garnish\r\n;\r\
+ nintercom_EVENT_ORDER_HASTE_ORDERED_0;You need to speed up!\r\
+ nintercom_EVENT_ORDER_HASTE_ORDERED_1;Work faster on that order! Our guest is in a hurry.\r\
+ nintercom_EVENT_ORDER_HASTE_ORDERED_2;You think they've got the whole day? Get a move on!\r\
+ nintercom_EVENT_ORDER_HASTE_ORDERED_3;What's taking you so long?\r\n;\r\
+ nintercom_EVENT_ORDER_HASTE_HURRY_UP_0;You have 1 minute before the guest leaves. Finish up!\r\
+ nintercom_EVENT_ORDER_HASTE_HURRY_UP_1;1 minute left! Hurry up!\r\
+ nintercom_EVENT_ORDER_HASTE_HURRY_UP_2;Your guest's going to leave in 1 minute! Start serving already!\r\
+ nintercom_EVENT_ORDER_HASTE_HURRY_UP_3;Stop wasting your time! You've got less than 1 minute to complete the order.\r\n;\r\
+ nintercom_EVENT_ORDER_HASTE_FAILED_0;Our guest's had enough of your clumsiness and left!\r\
+ nintercom_EVENT_ORDER_HASTE_FAILED_1;You know what? You can stop working on that dish – they've gone!\r\
+ nintercom_EVENT_ORDER_HASTE_FAILED_2;The guest lost their patience and left! What were you doing in there?\r\
+ nintercom_EVENT_ORDER_HASTE_FAILED_3;Your guest left because you failed to deliver on time!\r\n;\r\
+ nintercom_EVENT_ORDER_HASTE_SUCCESS_0;Good job! Our guest wanted me to compliment you on your skills. Just don't get used to it!\r\
+ nintercom_EVENT_ORDER_HASTE_SUCCESS_1;Well done! I have to say, you did better than I expected.\r\
+ nintercom_EVENT_ORDER_HASTE_SUCCESS_2;Our guest is happy. You did OK... I guess.\r\
+ nintercom_EVENT_ORDER_HASTE_SUCCESS_3;Wow! After all, you didn't mess that order up.\r\n;\r\
+ nintercom_EVENT_ORDER_YELPER_ORDERED_0;This order is for a yelper. Be extra careful. There's no place for incompetence.\r\
+ nintercom_EVENT_ORDER_YELPER_ORDERED_1;We've got a demanding yelper. At least try not to shame us publicly.\r\
+ nintercom_EVENT_ORDER_YELPER_ORDERED_2;That order is for a famous yelper. Give it your best shot!\r\
+ nintercom_EVENT_ORDER_YELPER_ORDERED_3;You'll be preparing food for a yelper. It won't be easy but I know you can do it!\r\
+ nintercom_EVENT_ORDER_YELPER_ORDERED_4;This yelper won't be easy to please. Use your amazing skills and make us proud!\r\
+ nintercom_EVENT_ORDER_YELPER_ORDERED_5;We'll be serving a yelper now. You know how picky they are, right?\r\n;\r\
+ nintercom_EVENT_ORDER_YELPER_HURRY_UP_0;Are you serious? There's no way we're getting a positive review now. Get it done or they're going to leave!\r\
+ nintercom_EVENT_ORDER_YELPER_HURRY_UP_1;Are you trying to get us all fired? Send that dish NOW! Our yelper is starving, and he can leave anytime!\r\
+ nintercom_EVENT_ORDER_YELPER_HURRY_UP_2;The yelper's had enough of waiting. I don't want to get publicly roasted because of your lack of skills. Hurry!\r\
+ nintercom_EVENT_ORDER_YELPER_HURRY_UP_3;Overtime! I'm sure that it will be mentioned on Yelp! Please, hurry up or they're going to leave.\r\
+ nintercom_EVENT_ORDER_YELPER_HURRY_UP_4;I know it's not easy but our yelper should be served by now. Please, complete that order so we won't get a bad review.\r\
+ nintercom_EVENT_ORDER_YELPER_HURRY_UP_5;Our guest's been waiting for a while now and might leave. Hurry up, you know we don't need any bad reviews.\r\n;\r\
+ nintercom_EVENT_ORDER_YELPER_FAILED_0;The yelper left without being served. I'm sure he'll mention that on Yelp. And you know what? I can't blame him!\r\
+ nintercom_EVENT_ORDER_YELPER_FAILED_1;Our yelper left hungry. You're a disgrace to this restaurant!\r\
+ nintercom_EVENT_ORDER_YELPER_FAILED_2;We're going to get roasted on Yelp! How long does it take to complete one order?!\r\
+ nintercom_EVENT_ORDER_YELPER_FAILED_3;That's it. They've gone. Please, try harder next time. We don't need any more negative reviews, OK?\r\
+ nintercom_EVENT_ORDER_YELPER_FAILED_4;Our yelper lost their patience and left. Come on, I know you can do better than that!\r\
+ nintercom_EVENT_ORDER_YELPER_FAILED_5;They left and I'm sure they're going to mention that on Yelp. What went wrong?\r\n;\r\
+ nintercom_EVENT_ORDER_YELPER_SUCCESS_0;The food we served was not that bad. Let's just wait for that yelper to review us.\r\
+ nintercom_EVENT_ORDER_YELPER_SUCCESS_1;Yelp's going to hear about our great service. I wish you always cooked so well.\r\
+ nintercom_EVENT_ORDER_YELPER_SUCCESS_2;I have to say I'm impressed. You've made that yelper very happy. We can expect a great review.\r\
+ nintercom_EVENT_ORDER_YELPER_SUCCESS_3;Our yelper left really happy. Great job. You're an ace!\r\
+ nintercom_EVENT_ORDER_YELPER_SUCCESS_4;Well done! I'm sure that's going to boost our fame on Yelp.\r\
+ nintercom_EVENT_ORDER_YELPER_SUCCESS_5;I'm so proud! Just wait until people on Yelp find out about your skills!\r\n;\r\
+ nintercom_EVENT_ORDER_GOURMET_ORDERED_0;Our next guest is a real gourmet. He's got very high expectations. Do your best!\r\
+ nintercom_EVENT_ORDER_GOURMET_ORDERED_1;You'll be serving a gourmet. He's extremely demanding but I know you'll amaze him!\r\
+ nintercom_EVENT_ORDER_GOURMET_ORDERED_2;We just got an order from a gourmet. He's really picky so make us proud!\r\n;\r\
+ nintercom_EVENT_ORDER_GOURMET_HURRY_UP_0;How dare you make a gourmet wait for so long?! Complete that order now before he leaves!\r\
+ nintercom_EVENT_ORDER_GOURMET_HURRY_UP_1;I hope that dish is coming out right now! The gourmet is upset and may leave anytime.\r\
+ nintercom_EVENT_ORDER_GOURMET_HURRY_UP_2;We can forget about a perfect review now! The gourmet's about to leave. You're going to ruin our reputation!\r\
+ nintercom_EVENT_ORDER_GOURMET_HURRY_UP_3;Hey, you need to finish up. The gourmet might leave and we really should not disappoint him.\r\
+ nintercom_EVENT_ORDER_GOURMET_HURRY_UP_4;The gourmet said he'll mention our delay in his review. Please finish before he leaves!\r\
+ nintercom_EVENT_ORDER_GOURMET_HURRY_UP_5;The gourmet's still waiting but I don't know for how long. He's got to be served now or it'll ruin our reputation.\r\n;\r\
+ nintercom_EVENT_ORDER_GOURMET_FAILED_0;Of course you failed! Now that the gourmet left hungry, I'm sure he'll tell everybody about his horrible experience!\r\
+ nintercom_EVENT_ORDER_GOURMET_FAILED_1;The gourmet's had enough of waiting. We're all going to suffer the consequences of your incompetence!\r\
+ nintercom_EVENT_ORDER_GOURMET_FAILED_2;That's it. The gourmet cancelled his order. Such a respected guest and such a catastrophe!\r\
+ nintercom_EVENT_ORDER_GOURMET_FAILED_3;The gourmet has gone. Our restaurant's fame will suffer.\r\
+ nintercom_EVENT_ORDER_GOURMET_FAILED_4;The gourmet is disappointed and so am I. People value his opinions and soon there'll be consequences.\r\
+ nintercom_EVENT_ORDER_GOURMET_FAILED_5;He left. Next time we get a visit from a famous gourmet you'll have to make up for this failure.\r\n;\r\
+ nintercom_EVENT_ORDER_GOURMET_SUCCESS_0;I can't believe you didn't mess that up. The gourmet liked your cooking.\r\
+ nintercom_EVENT_ORDER_GOURMET_SUCCESS_1;"The gourmet left satisfied. ""Compliments to the chef."" – that's what he said."\r\
+ nintercom_EVENT_ORDER_GOURMET_SUCCESS_2;You've pleased an extremely demanding gourmet. You're not such an amateur after all.\r\
+ nintercom_EVENT_ORDER_GOURMET_SUCCESS_3;WOW! You're such a pro! I've never seen a gourmet so happy. I'm sure this'll help our restaurant a lot!\r\
+ nintercom_EVENT_ORDER_GOURMET_SUCCESS_4;"You're making us all so proud! I'm sure that's thanks to that gourmet; many people are going to visit us soon."\r\
+ nintercom_EVENT_ORDER_GOURMET_SUCCESS_5;I'm so happy we hired you. You've got personal compliments from that gourmet. We're going to be famous!\r\n;\r\
+ nintercom_EVENT_BIG_TRAFFIC_START_0;We're going to be serving a lot of people today. Hope you can keep up!\r\
+ nintercom_EVENT_BIG_TRAFFIC_START_1;We're expecting a lot of guests, so work hard and stay focused, OK?\r\
+ nintercom_EVENT_BIG_TRAFFIC_START_2;Today's going to be busy, but I know we'll manage!\r\
+ nintercom_EVENT_BIG_TRAFFIC_START_3;Hope you've had a good night's sleep because we're expecting crowds today!\r\n;\r\
+ nintercom_EVENT_BIG_TRAFFIC_END_0;What a day! Finally, it's over.\r\
+ nintercom_EVENT_BIG_TRAFFIC_END_1;That was a really tough shift. I'm glad we're done.\r\
+ nintercom_EVENT_BIG_TRAFFIC_END_2;I think that's it for today. We've all earned some time off.\r\
+ nintercom_EVENT_BIG_TRAFFIC_END_3;I guess we can call it a day. We should all go home and rest.\r\n;\r\
+ nintercom_EVENT_BIG_TRAFFIC_END_NO_REFUNDS_0;Such a crazy day and no refunds. You're amazing!\r\
+ nintercom_EVENT_BIG_TRAFFIC_END_NO_REFUNDS_1;\r\n;\r\
+ nintercom_EVENT_BIG_TRAFFIC_END_MANY_REFUNDS_0;Hey, I know it was a hard day but we can't afford so many refunds. Next time, try harder.\r\
+ nintercom_EVENT_BIG_TRAFFIC_END_MANY_REFUNDS_1;Giving so many refunds is going to ruin our reputation. Please, make sure it won't happen again.\r\n;\r\
+ nintercom_EVENT_FAME_EXAM_TOMORROW_0;Tomorrow we're getting inspected. It's a great chance to raise our fame. Be ready!\r\
+ nintercom_EVENT_FAME_EXAM_TOMORROW_1;Tomorrow we're going to be visited by a Food Critic. Impress him and everyone's going to hear about us!\r\n;\r\
+ nintercom_EVENT_FAME_EXAM_TODAY_0;Today's a great opportunity to demonstrate your amazing skills. Hope you're ready!\r\
+ nintercom_EVENT_FAME_EXAM_TODAY_1;We're going to get inspected today. Show them what a great chef you are!\r\n;\r\
+ nintercom_EVENT_FAME_EXAM_TIME_0;The Food Critic should be here in around {0}.\r\
+ nintercom_EVENT_FAME_EXAM_TIME_1;I heard the Food Critic will be here in {0}.\r\n;\r\
+ nintercom_EVENT_FAME_EXAM_ARRIVAL_0;The Food Critic is here!\r\
+ nintercom_EVENT_FAME_EXAM_ARRIVAL_1;The Food Critic has arrived. I'll be taking his order soon!\r\
+ nintercom_EVENT_FAME_EXAM_ARRIVAL_2;The Food Critic is about to order. Get ready!\r\
+ nintercom_EVENT_FAME_EXAM_ARRIVAL_3;You're about to receive an order for the Food Critic. Remember to do your best!\r\n;\r\
+ nintercom_EVENT_FAME_EXAM_START_0;That's the order. You cannot shame us in front of the Food Critic. Anything below {0} stars won't pass!\r\
+ nintercom_EVENT_FAME_EXAM_START_1;OK, that's the ticket for the Food Critic. Remember, we need at least {0} stars.\r\n;\r\
+ nintercom_EVENT_FAME_EXAM_REMINDER_0;Remember, who we're serving now. There's a lot at stake. Hurry!\r\
+ nintercom_EVENT_FAME_EXAM_REMINDER_1;Don't make him wait for too long. He's a respected Food Critic, do you understand?\r\
+ nintercom_EVENT_FAME_EXAM_REMINDER_2;Don't forget about the Food Critic. Time's running up!\r\
+ nintercom_EVENT_FAME_EXAM_REMINDER_3;Hey, how's that order for the Food Critic. We don't have much time.\r\n;\r\
+ nintercom_EVENT_FAME_EXAM_OVERTIME_0;What on earth are you doing? The Food Critic is not going to wait any longer!\r\
+ nintercom_EVENT_FAME_EXAM_OVERTIME_1;Do you realize how important that order is?! The Food Critic is about to leave!\r\
+ nintercom_EVENT_FAME_EXAM_OVERTIME_2;The Food Critic might leave any minute now!\r\
+ nintercom_EVENT_FAME_EXAM_OVERTIME_3;Hurry, the Food Critic doesn't tolerate any delays!\r\n;\r\
+ nintercom_EVENT_FAME_EXAM_CANCELLED_0;The Food Critic cancelled the order. Don't even bother to apologize!\r\
+ nintercom_EVENT_FAME_EXAM_CANCELLED_1;He's gone. You've wasted such a chance. Get out of my sight!\r\
+ nintercom_EVENT_FAME_EXAM_CANCELLED_2;The Food Critic just left. I can't believe we've wasted such an opportunity!\r\
+ nintercom_EVENT_FAME_EXAM_CANCELLED_3;This could've been such a success, and now the Food Critic's gone. I'm very disappointed!\r\n;\r\
+ nintercom_EVENT_FAME_EXAM_FAILED_0;The monstrosity you've prepared didn't pass the exam. I expected as much.\r\
+ nintercom_EVENT_FAME_EXAM_FAILED_1;Your dish failed to satisfy the Food Critic. I knew you couldn't pass it!\r\
+ nintercom_EVENT_FAME_EXAM_FAILED_2;The Food Critic noticed your poor cooking right away. There's no way you could've passed!\r\
+ nintercom_EVENT_FAME_EXAM_FAILED_3;Unfortunately our dish didn't meet the Food Critic's needs. Don't worry, we're going to pass next time!\r\
+ nintercom_EVENT_FAME_EXAM_FAILED_4;We didn't pass. Perhaps you need more experience?\r\
+ nintercom_EVENT_FAME_EXAM_FAILED_5;Tough luck. Hopefully we'll pass next time!\r\n;\r\
+ nintercom_EVENT_FAME_EXAM_SUCCESS_0;We passed. Not bad. Not bad at all. We can expect more guests visiting soon.\r\nintercom_EVENT_FAME_EXAM_SUCCESS_1;The Food Critic approved our dish. We've done a great job!\r\nintercom_EVENT_FAME_EXAM_SUCCESS_2;Exam passed. We did it! Just wail till people start banging at our doors.\r\nintercom_EVENT_FAME_EXAM_SUCCESS_3;I knew you could do it! Exam passed. Well done! We're becoming more and more famous.\r\nintercom_EVENT_FAME_EXAM_SUCCESS_4;Great job! The Food Critic is impressed... And so am I!\r\nintercom_EVENT_FAME_EXAM_SUCCESS_5;You've pleased the Food Critic. I can't wait until everybody finds out about the great chef we've got!\r\n;\r\nintercom_EVENT_FAME_STAR_RISK_0;We haven't been doing so well recently. We might lose a star if we don't do something about it.\r\nintercom_EVENT_FAME_STAR_RISK_1;If we keep failing to meet our customers' expectations, we're going to lose a star.\r\n;\r\nintercom_EVENT_FAME_STAR_LAST_CHANCE_0;Last chance. If this customer leaves disappointed, we're going to lose a star.\r\nintercom_EVENT_FAME_STAR_LAST_CHANCE_1;Come on. Ace that order or we're losing a star!\r\n;\r\nintercom_EVENT_FAME_STAR_LOST_0;We've lost a star. Lets work extra hard to regain it!\r\nintercom_EVENT_FAME_STAR_LOST_1;Our continuous failures have made us lose a star. Let's get it back today!\r\n;\r\nintercom_EVENT_CASH_GIVEN_0;That's the only time I could've helped you financially. From now on, you're on your own.\r\n;\r\nintercom_EVENT_CASH_SUGGEST_0;It seems like you need some cash. I've got some money saved up. You can access it through your laptop.\r\n;\r\nintercom_EVENT_CASH_SUGGEST_LAPTOP_0;First, go to X window, then press Y button.\r\n;\r\nintercom_EVENT_RECIPE_OF_THE_DAY_0;{0}. That's our dish of the day.\r\nintercom_EVENT_RECIPE_OF_THE_DAY_1;Our dish of the day is {0}.\r\nintercom_EVENT_RECIPE_OF_THE_DAY_2;Remember that {0} is our dish of the day.\r\nintercom_EVENT_RECIPE_OF_THE_DAY_3;Today's special: {0}\r\nintercom_EVENT_RECIPE_OF_THE_DAY_4;People really like our {0} so it's our dish of the day.\r\nintercom_EVENT_RECIPE_OF_THE_DAY_5;Our {0} is quite popular so I've made it today's special.\r\nintercom_EVENT_RECIPE_OF_THE_DAY_6;We're serving {0} as our dish of the day.\r\nintercom_EVENT_RECIPE_OF_THE_DAY_7;You can expect a lot of orders for {0}. That's today's special.\r\n;\r\nintercom_EVENT_STANDS_UNLOCKED_0;Hey, I've fixed some of your equipment. Unfortunately, I couldn't afford to repair it all.\r\n;\r\nintercom_EVENT_ALL_STANDS_UNLOCKED_0;You know, I've got funds to repair all your equipment. Now the whole kitchen is at your disposal!\r\n;\r\nintercom_EVENT_STANDS_DAMAGE_ACTIVE_0;Remember that your equipment might get damaged. You'll have to take care of it, OK?\r\n;\r\nintercom_EVENT_STANDS_REPAIR_ACTIVE_0;If you see that something's broken, just grab a phone and order a repair.\r\n;\r\nintercom_EVENT_STANDS_REPAIR_ADVISED_0;You need to grab a phone and fix our {0} now.\r\nintercom_EVENT_STANDS_REPAIR_ADVISED_1;Our guests wouldn't be happy if they saw our {0}. Use your phone and order a repair, OK?\r\nintercom_EVENT_STANDS_REPAIR_ADVISED_2;It's disrespectful to our guests to work with that {0}. Grab a phone and call for a repair!\r\n;\r\nintercom_EVENT_STANDS_REPAIR_NEEDED_0;{0} is in horrible condition. Fix it before you blow us all up!\r\nintercom_EVENT_STANDS_REPAIR_NEEDED_1;Are you serious?! You can't use that {0} anymore. Get it repaired now!\r\nintercom_EVENT_STANDS_REPAIR_NEEDED_2;You can't be using that {0}! Fix it before somebody gets sick!\r\nintercom_EVENT_STANDS_REPAIR_NEEDED_3;It's irresponsible to work with that {0}. Call for a repair!\r\nintercom_EVENT_STANDS_REPAIR_NEEDED_4;You need to fix that {0} before it falls apart! It's not a joke!\r\nintercom_EVENT_STANDS_REPAIR_NEEDED_5;Please, repair that {0} before you hurt yourself!\r\n;\r\nintercom_EVENT_BUY_RECIPE_AVAILABLE_0;You've gained enough Cooking Points to unlock a new recipe. Use an app on your laptop to do it.\r\n;\r\nintercom_EVENT_RECIPE_INGREDIENTS_0;You're going to need some new ingredients for that recipe. You can find them in the store or in the larder.\r\n;\r\nintercom_EVENT_RECIPE_UNLOCKED_0;We've got a new recipe. I'm sure you're going to make good use of it.\r\nintercom_EVENT_RECIPE_UNLOCKED_1;We've added {0} to our menu. I hope you're happy!\r\nintercom_EVENT_RECIPE_UNLOCKED_2;{0} is our new dish. I can't wait to see you preparing it!\r\nintercom_EVENT_RECIPE_UNLOCKED_3;Well done, we've got a new dish in our menu!\r\n;\r\nintercom_EVENT_INGREDIENT_UNLOCKED_0;We've got a new ingredient. It's {0}. It can be found both in the shop and the larder.\r\nintercom_EVENT_INGREDIENT_UNLOCKED_1;{0} is our new ingredient. You'll find it in the shop and the larder.\r\nintercom_EVENT_INGREDIENT_UNLOCKED_2;{0} can now be found in the shop and the larder.\r\nintercom_EVENT_INGREDIENT_UNLOCKED_3;From now on, we'll start using {0}. Look for it in the shop or in the larder.\r\nintercom_EVENT_INGREDIENT_UNLOCKED_4;You can use the shop or the larder to get our new ingredient {0}.\r\nintercom_EVENT_INGREDIENT_UNLOCKED_5;We've unlocked {0}. The ingredient can be found both in the shop and the larder\r\n;\r\nintercom_EVENT_TODAY_BOOKINGS_0;There are {0} reservations for today.\r\nintercom_EVENT_TODAY_BOOKINGS_1;Today we've got {0} bookings.\r\nintercom_EVENT_TODAY_BOOKINGS_2;Hey, we've got {0} reservations for today.\r\nintercom_EVENT_TODAY_BOOKINGS_3;"People seem to like your cooking; we've got {0} bookings for today."\r\n;\r\nintercom_EVENT_BOOKING_TIME_0;There's a table of {0} coming at {1}.\r\nintercom_EVENT_BOOKING_TIME_1;At (pTime) we can expect {0} guests.\r\nintercom_EVENT_BOOKING_TIME_2;We've got a booking for a table for {0} at {1}.\r\nintercom_EVENT_BOOKING_TIME_3;Hey, do you know that there are {0} people coming at {1}?\r\nintercom_EVENT_BOOKING_TIME_4;I just wanted to let you know that we should expect a table of {0} at {1}.\r\nintercom_EVENT_BOOKING_TIME_5;At {1} we've got a reservation for {0} people.\r\n;\r\nintercom_SCHOOL_LESSON002_CUTTING_ START;Let’s teach you how to cut products!\r\nintercom_SCHOOL_LESSON002_CUTTING_ PUT_TOMATO;First, take a tomato and put it on a cutting board.\r\nintercom_SCHOOL_LESSON002_CUTTING_USE_ KNIFE;Take a knife from the knife stand and use it on the tomato.\r\nintercom_SCHOOL_LESSON002_CUTTING_ CUT;Start cutting!\r\nintercom_SCHOOL_LESSON002_CUTTING_ TIP;Don’t worry if the cut pieces aren't perfect. Clients care more about right amount and size of product than its looks.\r\nintercom_SCHOOL_LESSON002_CUTTING_ END;Well done! That concludes this lesson.\r\n;\r\nintercom_SCHOOL_LESSON003_SPRINKLE_START;Let’s teach you how to sprinkle products with spices!\r\nintercom_SCHOOL_LESSON003_SPRINKLE_TAKING_SALT;Take some salt, and use it on the salmon.\r\nintercom_SCHOOL_LESSON003_SPRINKLE_SPRINKLE;Sprinkle product with 3g of spice. Notice that every sprinkle covers the product with 1g of spice.\r\nintercom_SCHOOL_LESSON003_SPRINKLE_END;Well done! That concludes this lesson.\r\n;\r\nintercom_SCHOOL_LESSON004_SPATULA_START;Let’s teach you how to use the spatula on products! The hot plate is on, and now it’s time to flip the steaks to the other side.\r\nintercom_SCHOOL_LESSON004_SPATULA_TAKE_SPATULA;Take the spatula and use it on the hot plate.\r\nintercom_SCHOOL_LESSON004_SPATULA_SELECT;Now you can select the product that you want to flip.\r\nintercom_SCHOOL_LESSON004_SPATULA_ROTATE;When the product is on the spatula all you have to do is rotate.\r\nintercom_SCHOOL_LESSON004_SPATULA_PRODUCT;"Now, use the spatula directly on the product; it will instantly put it on the spatula. "\r\nintercom_SCHOOL_LESSON004_SPATULA_5_ROTATE_1;Rotate and voila!\r\nintercom_SCHOOL_LESSON004_SPATULA_6_END;Well done! That concludes this lesson.\r\n;\r\nintercom_SCHOOL_LESSON005_POUR_START;Take the sour cream and put it in the pot.\r\nintercom_SCHOOL_LESSON005_POUR_ROTATE;Rotate, notice that the bigger the angle the faster the liquid flows.\r\nintercom_SCHOOL_LESSON005_POUR_END;Well done! That concludes this lesson.\r\n;\r\n;\r\n;\r\nintercom_SCHOOL_LESSON006_BLENDER_START;Let’s teach you how to use a blender!\r\nintercom_SCHOOL_LESSON006_BLENDER_TAKE_BLENDER;Take the blender and use it with the pot.\r\nintercom_SCHOOL_LESSON006_BLENDER_MOVE;Start moving the blender up and down to blend all the tomatoes in the pot!\r\nintercom_SCHOOL_LESSON006_BLENDER_END;Well done! That concludes this lesson!\r\n;\r\nintercom_SCHOOL_LESSON007_TRANSFER_START;Let’s teach you how to transfer a product from one dish to another!\r\nintercom_SCHOOL_LESSON007_TRANSFER_TAKE_BOARD;Take the cutting board with the broccoli and put it on a plate.\r\
+ nintercom_SCHOOL_LESSON007_TRANSFER_ROTATE;Now rotate the cutting board!\r\
+ nintercom_SCHOOL_LESSON007_TRANSFER_END;Well done! That concludes this lesson!\r\n;\r\
+ nintercom_SCHOOL_LESSON008_DEEPFRY_START;Let’s teach you how to use the deep fryer!\r\
+ nintercom_SCHOOL_LESSON008_DEEPFRY_OIL;First you need to fill the deep fryer with oil - to do that just press the filling up button.\r\
+ nintercom_SCHOOL_LESSON008_DEEPFRY_TURN_ON;Now turn on the deep fryer.\r\
+ nintercom_SCHOOL_LESSON008_DEEPFRY_VESSEL;Take the deep fryer basket and put the potatoes in it.\r\
+ nintercom_SCHOOL_LESSON008_DEEPFRY_FRY;Now use the deep fryer basket on the deep fryer.\r\
+ nintercom_SCHOOL_LESSON008_DEEPFRY_END;Well done! That concludes this lesson!\r\n;\r\
+ nintercom_SCHOOL_LESSON009_FIXING_START;Let’s teach you how to fix kitchen equipment! As you can see this grill has seen better days, but no worries - there's a bunch of handymen in town!\r\nintercom_SCHOOL_LESSON009_FIXING_GET_PHONE;Go get the phone – it’s on the table next to the window.\r\nintercom_SCHOOL_LESSON009_FIXING_USE_PHONE;Now use the phone to find someone to fix the broken grill.\r\nintercom_SCHOOL_LESSON009_FIXING_PICK_OFFER;"There are a lot of companies offering to fix your grill; pick the one that suits your needs…"\r\nintercom_SCHOOL_LESSON009_FIXING_END;...and enjoy your working grill!\r\n;\r\nintercom_SCHOOL_LESSON010_ADVANCED_BUYING_START;Let’s teach you how to buy all sorts of products! In cardboard you’ll find everything that a chef might need! Go to the outlined box.\r\nintercom_SCHOOL_LESSON010_ADVANCED_BUYING_ENTER;Enter the shop!\r\nintercom_SCHOOL_LESSON010_ADVANCED_BUYING_TIP;As you can see in the Grocery you can buy food products, spices, liquids and utensils. Let’s assume you want to buy a blowtorch. Go to Utensils and select it.\r\nintercom_SCHOOL_LESSON010_ADVANCED_BUYING_PRICE;Every product has a price tag on it. Now just press Buy.\r\nintercom_SCHOOL_LESSON010_ADVANCED_BUYING_END;Now you own a blowtorch! That concludes this lesson!\r\n;\r\nintercom_POPUP_TV;Your first client just ordered a dish. You can check it on the TV. If you want to see the recipe simply select the dish on the TV screen.\r\nintercom_POPUP_RADIO;If you want to listen to the radio, just go to Settings > Audio, and set your favorite channel.\r\nintercom_POPUP_LAPTOP_DISH;"Here you can find a list of all the dishes in the game. Some of them you own; some of them you’ll own in the future - but you can check them out, and maybe try them out in your free time."\r\nintercom_POPUP_LAPTOP_DECORATIONS;Here you can change your kitchen’s design. You can change the look of the floor, tiles, top wall, bricks and ceiling.\r\nintercom_POPUP_FIRE;Your kitchen is on fire! Quick! Get the fire extinguisher - you’ll find it next to the fridge!\r\n;\r\nintercom_POPUP_PREPARE MEAL_START;It’s time to prepare Steak with French Fries! You’ll be able to prepare it without a time limit. When your dish is ready simply use it on a checkout.\r\nintercom_POPUP_PREPARE MEAL_SERVE;If your dish is ready to serve then simply press <ICON>. If you want to take a photo of your dish press <ICON>. Don’t worry – the time stops while using photo mode.\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\nboxofstuff_products;Products\r\nboxofstuff_spices;Spices\r\nboxofstuff_liquids;Liquids\r\nboxofstuff_utensils;Utensils\r\nnotebook_info_panel_day;Day\r\n;\r\nUNSAVED_CHANGES;You will need to restart the game for some changes to take effect.\r\n;\r\ntut_gravity;TOGGLE GRAVITY\r\ntut_take_stuff;BROWSE SHOP\r\n;\r\n;\r\nres_recipes_base_price;Profit\r\nres_recipes_gained_points;Cookpoints\r\nres_recipes_gained_fame;Max fame\r\nres_sandbox_order;Order\r\n;\r\n;\r\n;\r\nnotify_new_order;NEW ORDER!\r\nnotify_minute_left;HURRY UP!\r\nnotify_overtime;OVERTIME!\r\nnotify_cancelled;CANCELLED\r\n;\r\n;\r\ntooltip_sandbox;Displays recipes which you can order with this app.\r\n;\r\nfullscreen;Fullscreen\r\nresolution;Resolution\r\n;\r\n;\r\n;\r\ncookschool_lessontitle_8;Seasoning\r\ncookschool_lessondesc_8;Using spices on products.\r\ncookschool_lessontitle_9;Laptop apps\r\ncookschool_lessondesc_9;Guide to kitchen management using the laptop.\r\ncookschool_lessontitle_10;Advanced buying\r\ncookschool_lessondesc_10;Buying items through the shop UI.\r\ncookschool_lessontitle_101;Kitchen Trip\r\ncookschool_lessondesc_101;Showcase of kitchen assets.\r\n;\r\ndofmode_distance;Distance\r\ndofmode_onclick;On Click\r\n;\r\nfinalwindow_ok;Ok\r\nfinalwindow_dishAnalyzerServe;Serve\r\nfinalwindow_refund;Refund\r\nfinalwindow_dontrefund;Don't refund\r\nfinalwindow_happy;Guest is pleased.\r\nfinalwindow_nothappy;Guest is not pleased and wants a refund.\r\n;\r\ndaywindow_orders;Orders\r\ndaywindow_finishedorders;Finished orders\r\ndaywindow_expenses;Expenses\r\ndaywindow_mealsincome;Meals income\r\ndaywindow_tipincome;Tip income\r\ndaywindow_totalincome;Total income\r\ndaywindow_trophy;Trophy\r\n;\r\nres_deco_titleH;COMFY KITCHEN\r\
+ nres_deco_title;Your only choice!\r\n;\r\
+ nambient_volume;Ambient volume\r\
+ nrepair_busy;Busy\r\n;\r\
+ nanimated_wasted;WASTED\r\
+ nanimated_bankrupt;BANKRUPT\r\
+ nanimated_famelose;You lost fame!\r\
+ ngame_end_gratz;Congratulations!\r\
+ ngame_end_5stars;You have reached 5 stars.\r\
+ ngame_end_dayspassed;Days passed\r\
+ ngame_end_moneyearned;Money earned\r\
+ ngame_end_orderscompleted;Orders completed\r\
+ ngame_end_averagescore;Average score\r\
+ ngame_end_recipesowned;Recipes owned\r\
+ ngame_end_awardsreceived;Awards\r\
+ ngame_end_mainmenu;Main menu\r\
+ ngame_end_continueplay;Continue playing\r\n;\r\
+ ncontest_result;Contest results\r\
+ ncontest_chart;Chart\r\
+ ncontest_you;You\r\n;\r\n;\r\
+ ncomponent_CilantroGarnish;Cilantro Garnish\r\
+ njoystick_vibration;Controller vibration\r\n;\r\n;\r\n;\r\n;\r\
+ n80s Post-Apocalyptic Drama;Post-Apo\r\
+ nB&W Comic Book Extreme;B&W Comic Book\r\
+ nB&W High Contrast;B&W\r\nDayNight;Day Night\r\
+ nGamebob 2;Old Game\r\
+ nModern Dystopian Action;Modern\r\
+ nOld Film 3;Old Film\r\
+ nRobot Salvation;Salvation\r\nRohan;Rohan\r\nSepia 1;Sepia\r\
+ nSharp Wasteland;Wasteland\r\nStock 13;Dawn\r\nStock 14;Midnight\r\
+ nSummer Action;Summer Action\r\nTower;Tower\r\nUnderwater;Underwater\r\n;\r\n;\r\n;\r\n;\r\
+ ndesc_put_into_basket;Put [x] into frying basket\r\
+ nloose_products;Loose products\r\
+ ncontext_hold;Freeze products\r\n;\r\
+ ndesign_FLOOR_0;Basic\r\
+ ndesign_WALL_0_0;Basic\r\
+ ndesign_WALL_1_0;Basic\r\
+ ndesign_WALL_2_0;Basic\r\
+ ndesign_CEILING_0;Basic\r\
+ ndesign_FLOOR_1;Horror\r\
+ n design_WALL_0_1;Horror\r\
+ ndesign_WALL_1_1;Horror\r\
+ ndesign_WALL_2_1;Horror\r\
+ ndesign_CEILING_1;Horror\r\
+ ndesign_FLOOR_2;Hotel\r\
+ ndesign_WALL_0_2;Hotel\r\
+ ndesign_WALL_1_2;Hotel\r\
+ ndesign_WALL_2_2;Hotel\r\
+ ndesign_CEILING_2;Hotel\r\
+ ndesign_FLOOR_3;Modern\r\
+ ndesign_WALL_0_3;Modern\r\
+ ndesign_WALL_1_3;Modern\r\
+ ndesign_WALL_2_3;Modern\r\
+ ndesign_CEILING_3;Modern\r\
+ ndesign_FLOOR_4;Countryside\r\
+ ndesign_WALL_0_4;Countryside\r\
+ ndesign_WALL_1_4;Countryside\r\
+ ndesign_WALL_2_4;Countryside\r\
+ ndesign_CEILING_4;Countryside\r\
+ ndesign_FLOOR_5;60s\r\
+ ndesign_WALL_0_5;60s\r\
+ ndesign_WALL_1_5;60s\r\
+ ndesign_WALL_2_5;60s\r\
+ ndesign_CEILING_5;60s\r\
+ ndesign_FLOOR_6;Future\r\
+ ndesign_WALL_0_6;Future\r\
+ ndesign_WALL_1_6;Future\r\
+ ndesign_WALL_2_6;Future\r\
+ ndesign_CEILING_6;Future\r\
+ ndesign_FLOOR_7;Extravagant\r\
+ ndesign_WALL_0_7;Extravagant\r\
+ ndesign_WALL_1_7;Extravagant\r\
+ ndesign_WALL_2_7;Extravagant\r\
+ ndesign_CEILING_7;Extravagant\r\
+ ndesign_FLOOR_8;Tidy\r\
+ ndesign_WALL_0_8;Tidy\r\
+ ndesign_WALL_1_8;Tidy\r\
+ ndesign_WALL_2_8;Tidy\r\
+ ndesign_CEILING_8;Tidy\r\
+ ndesign_FLOOR_9;Azure Island\r\
+ ndesign_WALL_0_9;Azure Island\r\
+ ndesign_WALL_1_9;Azure Island\r\
+ ndesign_WALL_2_9;Azure Island\r\
+ ndesign_CEILING_9;Azure Island\r\n;\r\n;\r\
+ nintercom_EVENT_FAME_STAR_REGAIN_0;They will take our star away at the end of the day unless we gain {0} more fame points!\r\n;\r\
+ nfire_popup;You can't customize the kitchen floor while it's on fire.\r\
+ nstains_quality;Stain quality\r\n;\r\
+ nGUEST_SUGGESTIONS;Guest Complaints\r\
+ nFLAVOURSUI;Flavors\r\
+ nTECHNICALUI;Technique\r\
+ nTEMPERATUREUI;Temperature\r\
+ nNOT_ENOUGHT;Not enough\r\
+ nTOO_MUCH;Too much\r\
+ nWR_KITCHEN_APP;Heating mistakes\r\
+ nBAD_AMOUNT;Wrong amount of product\r\
+ nBAD_CUT;Bad cutting technique\r\
+ nTOO_HOT;Too hot\r\asdw
+ nTOO_COLD;Too cold\r\
+ nUNWANTED_PRODUCT;Unwanted product\r\
+ nMISSING_PRDCT;Missing product\r\
+ nproduct_UNHEALTHY;Dangerous object\r\n
+ UNWANTED_TASTE;Unwanted taste\r\n;\r\
+ nintercom_SCHOOL_dish1_0;I think it's time you've served your first dish. Don't worry – I'll be here to guide you through the process.\r\
+ nintercom_SCHOOL_dish1_1;This isn't a test, but if you run into trouble performing any of the tasks presented, try one of the earlier lessons.\r\
+ nintercom_SCHOOL_dish1_1_2;Your order will be a steak with a side of french fries. Simple yet nuanced. There's no actual guest waiting, so you can take your time.\r\
+ nintercom_SCHOOL_dish1_1_3;Look behind you – that's the checkout window. Once we're done you'll need to place the order on the shelf and use the tablet to confirm.\r\
+ nintercom_SCHOOL_dish1_2;See that? That's your order. Walk up to the Display and press [sprite:ButtonsAtlas.Primary] on the miniature to learn more.\r\
+ nintercom_SCHOOL_dish1_2_R1;The displays are the best way to check on your current orders and the recipes involved. Just walk up and press [sprite:ButtonsAtlas.Primary] on the item.\r\
+ nintercom_SCHOOL_dish1_2_R2;Oh dear, I hope you aren't intimidated by a little bit of modern technology?\r\
+ nintercom_SCHOOL_dish1_3;Take a good look at this screen. To the left you've got a list of ingredients, and to the right – what you have to do with them. Don't worry, we'll do it step by step. Lets get to work.\r\
+ nintercom_SCHOOL_dish1_3_R1;First take the steak out of the refrigerator.\r\
+ nintercom_SCHOOL_dish1_3_R2;Well, any time now? Take the steak out of the refrigerator.\r\
+ nintercom_SCHOOL_dish1_4;Let's put it somewhere – the cutting board will do fine.\r\
+ nintercom_SCHOOL_dish1_4_R1;Put the steak on the cutting board.\r\
+ nintercom_SCHOOL_dish1_4_R2;Maybe giving you this opportunity was a mistake? Put that steak on the cutting board, now!\r\
+ nintercom_SCHOOL_dish1_5;Now pick up the salt and use it on the steak. Sprinkle 4g.\r\
+ nintercom_SCHOOL_dish1_5_R1;The recipe requires 4g of salt on the steak, but try not to overdo it.\r\
+ nintercom_SCHOOL_dish1_5_R2;I think you should go back to the basics, because I can't see you working in a kitchen like this.\r\
+ nintercom_SCHOOL_dish1_6;Now it's time for some black pepper. Again we'll need 4g on the steak.\r\
+ nintercom_SCHOOL_dish1_6_R1;Use black pepper on the steak, just as you did with the salt. We'll need 4g.\r\
+ nintercom_SCHOOL_dish1_6_R2;Don't tell me that two containers are already too confusing for you. Black pepper – we need 4g of black pepper.\r\
+ nintercom_SCHOOL_dish1_7;Time to heat things up. Turn on the griddle – it's right next to the refrigerator.\r\
+ nintercom_SCHOOL_dish1_7_R1;Use the knob on the griddle to turn it on. There's nothing to it.\r\
+ nintercom_SCHOOL_dish1_7_R2;Really? There's like one knob on that griddle and it turns just one way. Now how difficult is that? 'Cause looking at you I'm beginning to think we need a rocket scientist here.\r\
+ nintercom_SCHOOL_dish1_8;Now put the steak on the griddle.\r\
+ nintercom_SCHOOL_dish1_8_R1;Take that steak and put it on the griddle.\r\
+ nintercom_SCHOOL_dish1_8_R2;C'mon, no time, put that steak on the griddle!\r\
+ nintercom_SCHOOL_dish1_9;"Target the steak to view it's state; that green bar indicates if the food is cooked; the little pan icon informs you that it's been fried."\r\nintercom_SCHOOL_dish1_9_R1;"Target the steak to view it's state; that green bar indicates if the food is cooked; the little pan icon informs you that it's been fried."\r\nintercom_SCHOOL_dish1_9_R2;Could you please pay attention to what you are cooking? You don't want to serve charcoal to people.\r\
+ nintercom_SCHOOL_dish1_10;Look up – there's a spatula hanging above the griddle. Take it.\r\
+ nintercom_SCHOOL_dish1_10_R1;Hey, the spatula, it's hanging on the wall above the griddle – I want you to take it.\r\
+ nintercom_SCHOOL_dish1_10_R2;That metal thingy hanging from the wall – it's called a spa-tu-la, and I want you to take it!\r\
+ nintercom_SCHOOL_dish1_11;We want to fry both sides of the steak, so we need to flip it. Target the steak – use the spatula. Once the steak is on the spatula, target the Griddle and enter context. Hold the key to flip the steak with the spatula.\r\
+ nintercom_SCHOOL_dish1_11_R1;Now target the steak and use the spatula. Then target the griddle. When in context, hold the key to rotate the spatula with the steak and flip the meat.\r\
+ nintercom_SCHOOL_dish1_11_R2;I know it looks impossible, but it isn't. You've got to learn the ropes.\r\
+ nintercom_SCHOOL_dish1_12;Now we wait for the other side to sear.\r\
+ nintercom_SCHOOL_dish1_13;Go and find a plate in the pantry. There should be some on the storage shelf. I need you to buy one.\r\
+ nintercom_SCHOOL_dish1_13_R1;We need a plate. Go to the pantry and buy a plate from the storage shelf.\r\
+ nintercom_SCHOOL_dish1_13_R2;Move, move, move! Find that plate in the pantry!\r\
+ nintercom_SCHOOL_dish1_14;And back we go. Target the steak and use the plate to transfer the steak onto the plate.\r\
+ nintercom_SCHOOL_dish1_14_R1;Quick – we don't want anything to burn. Target the steak and use the plate to transfer the steak onto the plate.\r\
+ nintercom_SCHOOL_dish1_14_R2;Maybe you should work in a coal mine, huh? Target the steak and use the plate to transfer the steak onto the plate, now!\r\
+ nintercom_SCHOOL_dish1_15;Put the plate down for now.\r\
+ nintercom_SCHOOL_dish1_15_R1;There's some space next to the gas stand. Put the plate down for now.\r\
+ nintercom_SCHOOL_dish1_15_R2;To the right of the griddle there's some empty space on the countertop. Put the plate there. You need to do these things faster!\r\nintercom_SCHOOL_dish1_16;Now, take the cutting board.\r\nintercom_SCHOOL_dish1_16_R1;Take the cutting board.\r\nintercom_SCHOOL_dish1_16_R2;I'm basically doing the thinking for you over here, and even so, you're not doing well! Just take the cutting board!\r\
+ nintercom_SCHOOL_dish1_17;Go to the pantry and buy 2 potatoes.\r\
+ nintercom_SCHOOL_dish1_17_R1;Go to the pantry and buy 2 potatoes.\r\
+ nintercom_SCHOOL_dish1_17_R2;I want 2 potatoes on that cutting board. Figure it out!\r\
+ nintercom_SCHOOL_dish1_18;"Now take them back to the countertop; we'll need to cut them."\r\
+ nintercom_SCHOOL_dish1_18_R1;Put down the cutting board and the potatoes on the countertop, near the knife.\r\
+ nintercom_SCHOOL_dish1_18_R2;I need those potatoes now! Bring them to the countertop!\r\
+ nintercom_SCHOOL_dish1_19;Take the knife and cut the potatoes. You'll need at least 10 pieces.\r\
+ nintercom_SCHOOL_dish1_19_R1;Take the knife, target a potato, and start cutting. Remember, we want no fewer than 10 pieces of potato.\r\nintercom_SCHOOL_dish1_19_R2;We're not done until I see something that at least remotely resembles french fries! I want 10 pieces of potato, no fewer!\r\nintercom_SCHOOL_dish1_20;That's okay – you can put the knife aside.\r\nintercom_SCHOOL_dish1_20_R1;That will do it. Put the knife away.\r\nintercom_SCHOOL_dish1_20_R2;Are you some sort of weirdo? I said enough! Put that knife down!\r\nintercom_SCHOOL_dish1_21;Walk up to the deep fryer. Press the button to fill it with oil.\r\nintercom_SCHOOL_dish1_21_R1;Walk up to the deep fryer. Press the button to fill it with oil.\r\nintercom_SCHOOL_dish1_21_R2;"Don't waste your time; the fryer takes a while to fill up."\r\nintercom_SCHOOL_dish1_22;Now that it's filled with oil, you can turn it on using the knob on the front.\r\nintercom_SCHOOL_dish1_22_R1;Use the knob on the front of the fryer to turn it on.\r\nintercom_SCHOOL_dish1_22_R2;I'm pretty sure I'm wasting my time with you. Turn that fryer on!\r\nintercom_SCHOOL_dish1_23;To the left there's a fryer basket – take it.\r\nintercom_SCHOOL_dish1_23_R1;Take the fryer basket.\r\nintercom_SCHOOL_dish1_23_R2;If you want to cook something in boiling oil, you'll need a basket. Just trust me on this one, okay?\r\nintercom_SCHOOL_dish1_24;Pick up all the potato pieces and put them into the basket. Just target them and use the basket.\r\nintercom_SCHOOL_dish1_24_R1;Use the basket to pick up all the potato pieces. Notice that you can modify your pick-up range.\r\nintercom_SCHOOL_dish1_24_R2;If you have to do it one by one, then fine. I just want you to end up with a fryer basket full of pieces of potato. Got that?\r\nintercom_SCHOOL_dish1_25;Target the deep fryer to place the basket inside.\r\nintercom_SCHOOL_dish1_25_R1;Target the deep fryer to place the basket inside.\r\nintercom_SCHOOL_dish1_25_R2;This is taking you way too much time. Get a hold of yourself!\r\nintercom_SCHOOL_dish1_26;Now lets wait for the fries to cook.\r\nintercom_SCHOOL_dish1_27;Get the plate with the steak.\r\nintercom_SCHOOL_dish1_27_R1;Get the plate with the steak.\r\nintercom_SCHOOL_dish1_27_R2;Don't tell me you can't remember where you left it. This is really pathetic.\r\nintercom_SCHOOL_dish1_28;Now transfer the fried potatoes to the plate.\r\nintercom_SCHOOL_dish1_28_R1;I want to see you holding a plate with steak and fries on it.\r\nintercom_SCHOOL_dish1_28_R2;Your guests would be long gone by now – you do realize that?\r\nintercom_SCHOOL_dish1_29;Now to finish the dish: go to the herb shelves in the pantry and add two rosemary twigs to the plate.\r\nintercom_SCHOOL_dish1_29_R1;Garnish the plate with two rosemary twigs – you'll find them in the pantry, on the herb shelves, next to the refrigerator.\r\nintercom_SCHOOL_dish1_29_R2;If we weren't near the end I'd leave. You really like to take your time.\r\nintercom_SCHOOL_dish1_30;It's time to serve your dish. Curious how it turned out? Bring it to the checkout counter, left of the exit.\r\
+ nintercom_SCHOOL_dish1_30_R1;You need to place the dish on the checkout counter, left of the exit.\r\
+ nintercom_SCHOOL_dish1_30_R2;Revenge is a dish best served cold. Steak is not. Move it!\r\
+ nintercom_SCHOOL_dish1_31;Congratulations. You've served a full dish. How does it feel? Ready to take on the challenges of this kitchen on your own? If not, you can always come back for a lesson or two.\r\n;\r\nintercom_SCHOOL_buying_0;Hello, the manager asked me to teach you a thing or two. I hope you catch on fast 'cause there's loads to learn.\r\nintercom_SCHOOL_buying_1;We'll start off with the basics. I'll teach you how to buy products, containers, and how to carry things around without wasting too much time.\r\nintercom_SCHOOL_buying_2;I want you to walk up to the wooden racks in the pantry.\r\nintercom_SCHOOL_buying_2_R1;Move, move, move, get to that pantry. We don't have all day!\r\nintercom_SCHOOL_buying_3;Good. See those tomatoes? Buy one.\r\nintercom_SCHOOL_buying_3_R1;Target the tomatoes. They will change to a Cookbuck symbol. Press [sprite:ButtonsAtlas.Primary] to buy a tomato.\r\nintercom_SCHOOL_buying_3_R2;Buy a tomato!\r\nintercom_SCHOOL_buying_4;Ok. Take that tomato to the countertop and set it aside.\r\nintercom_SCHOOL_buying_4_R1;Walk up to the countertop, target it, and put down the tomato.\r\nintercom_SCHOOL_buying_4_R2;Are you kidding me? Put the tomato down!\r\nintercom_SCHOOL_buying_5;Time to buy a plate. It works the same as with buying products.\r\nintercom_SCHOOL_buying_5_R1;Reach down and buy a plate. Just target it and follow the instructions in the bottom right corner of the screen.\r\nintercom_SCHOOL_buying_5_R2;"This isn't kindergarten; there's no nap time! Buy that plate!"\r\nintercom_SCHOOL_buying_6;Here's a trick of the trade. When you've got a container in hand, you can carry multiple items. Saves a lot of time. Now, buy 3 tomatoes.\r\nintercom_SCHOOL_buying_6_R1;Walk up to the tomatoes with a plate in hand and buy 3 tomatoes. They will all land on the plate.\r\nintercom_SCHOOL_buying_6_R2;If you can't learn this, your guests will starve to death before you can assemble the ingredients. Grab a plate and buy me 3 tomatoes!\r\nintercom_SCHOOL_buying_7;This doesn't make you a full blown chef yet, but you'd at least be of some use in the kitchen. Well done.\r\n;\r\nintercom_SCHOOL_cutting_0;Today's lesson is very important, so pay attention.\r\nintercom_SCHOOL_cutting_1;I'll teach you how to cut products. It's easy to learn but hard to master, so put in some extra hours to practice once we're done.\r\nintercom_SCHOOL_cutting_2;First grab the tomato and place it on the cutting board.\r\nintercom_SCHOOL_cutting_2_R1;Look down – there's a tomato on the countertop. Pick it up and place it on the cutting board.\r\nintercom_SCHOOL_cutting_2_R2;Chop chop. These are the basics you should already know. Move that tomato.\r\nintercom_SCHOOL_cutting_3;Now take the knife and use it on the tomato or the cutting board.\r\nintercom_SCHOOL_cutting_3_R1;The knife's in the stand to your right. Take it and aim at the tomato, then use it.\r\nintercom_SCHOOL_cutting_3_R2;This is ridiculous! I don't have the time for this. Take that knife and get cutting!\r\nintercom_SCHOOL_cutting_4;Now I want you to cut the tomato into at least 4 pieces. Just follow the instructions in the bottom right of the screen.\r\nintercom_SCHOOL_cutting_4_R1;All we need is the correct amount. Guests focus more on quantity and size. Give me at least 4 pieces of tomato.\r\nintercom_SCHOOL_cutting_4_R2;We're not going anywhere until you cut that tomato into at least 4 pieces!\r\nintercom_SCHOOL_cutting_5;Good job. Of course, it will take some training to get the amounts right every time, so use every spare moment and practice, practice, practice.\r\n;\r\nintercom_SCHOOL_seasoning_0;Today's lesson is short, but the skill you'll learn will determine whether you get tips or have to wrestle the guests for money.\r\nintercom_SCHOOL_seasoning_1;Let's learn the basics on how to season food.\r\nintercom_SCHOOL_seasoning_2;"Target the salt container; notice the number under the label. It shows how much spice is left in the container. Now pick it up."\r\nintercom_SCHOOL_seasoning_2_R1;"Look down – there's a container of salt on the countertop. Notice how much spice is left in the container; they're expensive. Now, pick it up."\r\nintercom_SCHOOL_seasoning_2_R2;Well I'm getting paid for this, are you?\r\nintercom_SCHOOL_seasoning_3;Now target the salmon and use the container to enter sprinkle mode.\r\nintercom_SCHOOL_seasoning_3_R1;Just work on the salmon while holding the spice container. Look to the bottom right if you need a hint.\r\nintercom_SCHOOL_seasoning_3_R2;"Maybe you don't approve of salt but most guests do; so just do as I say - target that fillet and start seasoning."\r\nintercom_SCHOOL_seasoning_4;Now for the actual seasoning, Aim for the fillet and use the container until you season the fish with 3g of salt.\r\nintercom_SCHOOL_seasoning_4_R1;"Each shake drops 1g of spice; we need 3g. Be sure you're aiming for the fillet; don't waste the salt."\r\nintercom_SCHOOL_seasoning_4_R2;If you can't even sprinkle 3g of salt on a single piece of fillet, frankly, I don't think you have what it takes to be a chef.\r\nintercom_SCHOOL_seasoning_5;This was easy, wasn't it? It gets a lot harder when the product is cut into pieces. Better practice your aim then.\r\n;\r\n;\r\nintercom_school_advanced_0;"I've shown you previously how to buy products from shelves; however, not everything can be found just lying around."\r\nintercom_school_advanced_1;Today you'll learn how to buy everything you'll need and more.\r\nintercom_school_advanced_2;See that cardboard box? I need you to walk up to it.\r\nintercom_school_advanced_2_R1;Come on, get to it!\r\nintercom_school_advanced_3;Now target the box and press [sprite:ButtonsAtlas.Primary].\r\nintercom_school_advanced_3_R1;Center the camera on the box and follow the instructions in bottom right corner of the screen to use it.\r\nintercom_school_advanced_4;This is the Shop screen. Items are split into 4 categories and by default sorted alphabetically.\r\nintercom_school_advanced_5;Spices and liquids can only be bought here, and they come only in larger amounts, so be prepared to pay a handsome fee.\r\nintercom_school_advanced_6;If you have trouble keeping track of your tools and pots, you can buy additional ones from the 'Utensils' tab. Be aware that quality doesn't come cheap.\r\nintercom_school_advanced_7;Now go to the Liquids tab.\r\nintercom_school_advanced_7_R1;If you haven't noticed by now, there are tabs at the top of this screen.\r\nintercom_school_advanced_8;The tabs at the bottom of the menu determine the sorting order. I want you to select the rightmost sorting tab.\r\nintercom_school_advanced_8_R1;Sort the products according to price by selecting the rightmost tab at the bottom of the menu.\r\nintercom_school_advanced_9;Products should now be sorted according to their price, descending. If you haven't noticed, prices are denoted to the far right, in green. Or in red if you don't have sufficient funds.\r\nintercom_school_advanced_10;I want you to select Avocado Oil from the list.\r\nintercom_school_advanced_11;Now buy a bottle.\r\nintercom_school_advanced_12;"Once you buy an item, you leave the Shop view. You can buy only one item at a time; no tricks with a container this time."\r\nintercom_school_advanced_13;"Well done. Don't forget this lesson; many items can only be bought this way!"\r\n;\r\nintercom_school_route_0;Today I'll give you a quick tour of the kitchen. Stay focused – you need to memorize all of this. We can't have you wandering about searching for stuff while the guests are waiting.\r\nintercom_school_route_1;Go to the next marker.\r\nintercom_school_route_1_2;Go to the marker.\r\nintercom_school_route_2_1;Here you will find mostly vegetables, some fruit, bread and buns. Some of the products you will need to unlock by learning new recipes.\r\nintercom_school_route_2_2;Remember that you'll need to pay for the products, and be sure to bring a container if you want to carry more than one piece.\r\nintercom_school_route_3_1;Here you will find plate stacks. Again you have to pay for every single one. Once the dish is served, the price of the plate will be added back to your account.\r\nintercom_school_route_3_2;You can also use plates to carry things around the kitchen, but be careful, these things break easily.\r\nintercom_school_route_3_3;Even more important are the cardboard boxes. Trouble finding something? You can buy one from a box.\r\nintercom_school_route_4_1;"These shelves are used for storing herbs. Just as with everything else, the herbs have to be purchased; you pay for every twig or leaf you take."\r\nintercom_school_route_5_1;This is the refrigerator. Here you can buy fish, meat, cheese, and fruit. Some of the products are hidden in the drawers at the bottom of the fridge.\r\nintercom_school_route_6_1;The griddle is used for searing and frying - as long as the recipe doesn't call for any fat, such as oil. Most meat needs to be fried on both sides, so don't forget to flip it.\r\nintercom_school_route_7_1;The stove is your best friend. Here you can boil, fry, even grill - with the right pan of course. Under the stove there's even a backup oven.\r\nintercom_school_route_7_2;Remember that pots and pans come in different shapes and sizes. Just because there are 6 burners doesn't mean you'll fit 6 containers on the stove at the same time.\r\nintercom_school_route_8_1;If you wish, you can cut on any flat surface – just grab a knife. However, the proper way is to use a cutting board.\r\nintercom_school_route_9_1;On the shelves below you'll find pans and behind you …\r\nintercom_school_route_9_2;There are pots stored on another shelf near the floor.\r\nintercom_school_route_9_3;If you don't feel the need to prepare before the workday, or you're done for the day, you can use the clock to skip the preparation phases at the beginning and end of each day.\r\nintercom_school_route_10_1;You'll use the faucet mainly to fill pots. Most recipes assume that you'll use cold water, so stay away from that red handle unless you're told to use it.\r\nintercom_school_route_11_1;"The oven is for baking. Be sure to use baking trays; you can find them to the right. Remember, you can bake multiple different dishes at the same time."\r\nintercom_school_route_11_2;"The upper switch turns the oven on and off; the lower controls the heat. Baking times correspond to the first setting, so be careful not to burn your dish."\r\nintercom_school_route_12_1;These are the deep fryers. They're empty. You need to push the left button to fill them with oil. The right button drains the tank.\r\nintercom_school_route_12_2;Oh, and don't forget to use fryer baskets unless you want 3rd degree burns.\r\nintercom_school_route_13_1;"Well, this one's pretty obvious – the grill is for grilling. Just don't forget to flip whatever you're cooking; most recipes require that."\r\nintercom_school_route_14_1;The food processor - throw the ingredients inside and push the button. Presto, you've got yourself a liquid blend. You can always taste it if you forget what's inside.\r\nintercom_school_route_15_1;Microwave oven? I don't know what this thing is doing in a respectable kitchen – best you forget it's here.\r\nintercom_school_route_16_1;"And this ... This shows why this place nearly closed down. The last cook didn't even bother to bring darts; he threw knives instead. Pathetic."\r\nintercom_school_route_17_1;You can use any of the screens in the kitchen to view your current orders, time left, and recipe details. They're really useful.\r\nintercom_school_route_18_1;This is your desk. The radio looks old but don't be fooled. You can set it up to play your own mp3s and even internet radio stations.\r\nintercom_school_route_18_2;The laptop won't cook for you, but it will help you run this place. I'm sure the manager will explain everything in detail.\r\nintercom_school_route_18_3;The phone will come in handy when something breaks down. Just pick it up and walk up to whatever needs maintenance.\r\nintercom_school_route_18_4;Choose the service company wisely. Fast and cheap should be a warning sign – stuff might break before they even leave.\r\nintercom_school_route_19_1;"And here's the checkout. Put your dish on the shelf and choose from the tablet which order you're about to serve. Just don't mix things up; once it's out, it's out."\r\nintercom_school_route_20_1;And the final station - the garbage bin. If it's not good enough for you, it's not good enough for your guests. Keep that in mind.\r\
+ nintercom_school_route_21;Alright. This was just a tour, but I hope you learned something. A true chef needs to know his kitchen inside out.\r\n;\r\
+ ncheckout_serve_dish;Serve dish\r\ncheckout_photomode;Take photo\r\n;\r\
+ ndofmode_disabled;Disabled\r\n;\r\
+ ncomponent_108502;Parsley Garnish\r\
+ ncomponent_108700;Pork Chops\r\ncomponent_108701;Lemon Baked Potatoes\r\
+ ncomponent_108800;Ukrainian Borscht\r\
+ ncomponent_108802;Dill Garnish\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\n;\r\
+ ntut_buyitems;Buy items\r\n;\r\
+ ntut_whetstart;START WHETTING\r\ntut_switchknife;SELECT NEW KNIFE\r\ntut_chooseknife;TAKE THE SELECTED KNIFE\r\
+ ntut_selectpart;SELECT PRODUCT PART\r\ntut_takepart;TAKE THE SELECTED PART\r\
+ ntut_assigncontainer_short;ASSIGN A DISH\r\ntut_reassigncontainer;Reassign a dish to this container.\r\n;\r\n;\r\nnot_NewOrder;New order received: <b>{0}</b>.\r\nnot_NearEndOrder;Order comes to an end: <b>{0}</b>.\r\nnot_OvertimeOrder;Order is past time: <b>{0}</b>.\r\nnot_CancelledOrder;An order (<b>{0}</b>) was cancelled.\r\nnot_NewFamilyOrder;New family order (<b>{0}</b> orders) received: <b>{1}</b>.\r\nnot_NearEndFamilyOrder;Family order (<b>{0}</b> orders) comes to an end: <b>{1}</b>.\r\nnot_OvertimeFamilyOrder;New family order (<b>{0}</b> orders) received: <b>{1}</b>.\r\nnot_CancelledFamilyOrder;New family order (<b>{0}</b> orders) received: <b>{1}</b>.\r\n;\r\nfinal_tut_decorationH;Decoration\r\nfinal_tut_decoration;Rates how well you've placed all components on a plate.\r\n;\r\ncredits_leadprog;Lead Programmer\r\ncredits_uiprog;UI Programmer\r\n;\r\n;\r\nintercom_SCHOOL_notebook_0;Hi, I'm the new owner of this restaurant. Pleased to meet you in person. Today I wanted to show you how to operate apps in the laptop. \r\nintercom_SCHOOL_notebook_1;You may be the best when it comes to cooking, but without knowledge of these apps we won't reach the top.\r\nintercom_SCHOOL_notebook_2;Let's begin. First, find the laptop. Just go to the marker.\r\nintercom_SCHOOL_notebook_2_R1;Get to the marker, the laptop is on the desk next to the marker.\r\nintercom_SCHOOL_notebook_2_R2;You can't operate the laptop from here, get to the marker.\r\nintercom_SCHOOL_notebook_3;Now target the laptop and use it.\r\nintercom_SCHOOL_notebook_3_R1;Just point at the laptop and follow the intructions in the bottom right corner to use the laptop.\r\nintercom_SCHOOL_notebook_4;This is the main view of the laptop. From here you can enter any app simply by clicking its icon. If you're unsure what the app does, just hover over.\r\nintercom_SCHOOL_notebook_5;Let's begin our journey with the app in the top left corner - Restaurant Info. Choose the app icon and click on it.\r\nintercom_SCHOOL_notebook_5_R1;I need you to click on the icon in the top left corner. That's the Restaurant Info app.\r\nintercom_SCHOOL_notebook_6;This is the Restaurant Info App, it keeps track of some basic statistics.\r\nintercom_SCHOOL_notebook_7;Use the slider to adjust how much above the base price our guests will need to pay. Observe that the higher the price, the higher the expectations.\r\nintercom_SCHOOL_notebook_7_R1;Set our profit to 125% that means that guests will pay 225% of the base price of a dish. Note that their expectations will be higher.\r\nintercom_SCHOOL_notebook_8;Once you're ready, click the cross in the top right corner of the app to close it and return to the previous view.\r\nintercom_SCHOOL_notebook_9;Now we'll take a look at the Recipe Browser. It's the icon in the middle of the top row.\r\nintercom_SCHOOL_notebook_9_R1;I need you to click on the icon in the middle of the top row - the recipe browser.\r\nintercom_SCHOOL_notebook_10;These are all the recipes you currently own. The counter in the top right displays how many Cooking Points you currently have. The display to the left shows your fame ranking.\r\nintercom_SCHOOL_notebook_11;Hover over the dishes to learn their names, preparation times and base gain values for each served dish.\r\nintercom_SCHOOL_notebook_12;Now click on the highlighted picture to learn the full details of that recipe.\r\nintercom_SCHOOL_notebook_13;The left column contains the base gain values for each serving of a dish and the list of ingredients needed. The right column describes what you need to do in order to prepare this recipe.\r\nintercom_SCHOOL_notebook_14;Once you're ready, click the 'BACK' button near the top left corner to return to the owned recipes view.\r\nintercom_SCHOOL_notebook_15;Okay, now let's upgrade a dish. I've added some cooking points to your account. Spend them on an upgrade by clicking the highlighted button under the recipe.\r\nintercom_SCHOOL_notebook_15_R1;Press the highlighted button under the dish to spend Cooking Points to upgrade the recipe.\r\nintercom_SCHOOL_notebook_16;Great! Now let's buy some new recipes. Head on to the Not Owned Section of Recipe Browser.\r\nintercom_SCHOOL_notebook_16_R1;Press the Not Owned button in the top left corner of of the screen.\r\nintercom_SCHOOL_notebook_17;This screen works similarly to the owned recipes. Some dishes not only cost Cooking Points but also require a Fame Rating not lower than the amount of stars specified.\r\nintercom_SCHOOL_notebook_18;I want you to buy a recipe, I've given you some more Cooking Points. Buying works exactly like upgrading, just click the highlighted button to spend Cooking Points.\r\nintercom_SCHOOL_notebook_18_R1;Press the highlighted button under the dish to spend Cooking Points and buy the recipe.\r\nintercom_SCHOOL_notebook_19;Once you're ready, click the cross in the top right corner of the app to close it and return to the previous view.\r\nintercom_SCHOOL_notebook_20;Now let's check out the Review App, it's the icon in the top right. Click on it.\r\nintercom_SCHOOL_notebook_21;This app allows you to view what guests and critics have written about your cooking. You can filter the reviews by score.\r\nintercom_SCHOOL_notebook_22;Once you're ready, click the cross in the top right corner of the app to close it and return to the previous view.\r\nintercom_SCHOOL_notebook_23;The app icon in the bottom left leads to the decoration app. Click on it.\r\nintercom_SCHOOL_notebook_24;This app allows you to redecorate your kitchen. Materials are pretty expensive, but once you own a theme you can switch to it at any time for free.\r\nintercom_SCHOOL_notebook_25;To the right you can see a list of themes available in the current category. I want you to select 'Horror'.\r\nintercom_SCHOOL_notebook_25_R1;Click on the 'Horror', notice that the preview screen changes.\r\nintercom_SCHOOL_notebook_26;Selecting a theme only changes the preview, it doesn't buy nor apply it. I've added some money to your account, click the buy button below. \r\nintercom_SCHOOL_notebook_27;Whenever you buy a new theme it automatically becomes applied. Now let's change back to 'Basic'.\r\nintercom_SCHOOL_notebook_27_R1;Click 'Basic' then click apply in the bottom right corner of the app window.\r\nintercom_SCHOOL_notebook_28;Once you're ready, click the cross in the top right corner of the app to close it and return to the previous view.\r\nintercom_SCHOOL_notebook_29;Now for my favourite - the self-improvement app. Click on the middle icon in the bottom row.\r\nintercom_SCHOOL_notebook_30;Here you can view and activate your special perks - abilities that can help you reach the top. They are divided into 3 categories. \r\nintercom_SCHOOL_notebook_30_R1;"Assurance is all about playing it safe; Acceleration can be risky but allows you to advance faster; Experiment route makes it easier to try out everything this kitchen has to offer."\r\nintercom_SCHOOL_notebook_31;Note that perks are not only expensive, but also limited by the fame level reached. Every time you reach a new fame level, you gain special points that enable buying perks.\r\nintercom_SCHOOL_notebook_31_R1;If you lose a star, you won't lose points or perks but you won't gain more points by reaquireing the lost star.\r\nintercom_SCHOOL_notebook_32;I've added one perk point and some cash to your account. Buy the 1st level of the Second Hand perk. Simply click the upgrade bar under that section.\r\nintercom_SCHOOL_notebook_32_R1;Unlock the 1st level of the Second Hand perk by clicking the upgrade bar below that perk group section.\r\nintercom_SCHOOL_notebook_33;Once you're ready, click the cross in the top right corner of the app to close it and return to the previous view.\r\nintercom_SCHOOL_notebook_34;Finally, we visit the banking app, it's the most important of them all, you'll find it in the bottom right corner. Click the highlighted icon.\r\nintercom_SCHOOL_notebook_35;Fame can be regained, but if we go bankrupt, that's it. Here you can monitor the balance of your account.\r\nintercom_SCHOOL_notebook_36;Because you've unlocked a perk you can also take loans.\r\nintercom_SCHOOL_notebook_37;Loans can save you when you're running low on funds. But be careful, you can have only one loan at a time and installment rates need to be paid on time.\r\nintercom_SCHOOL_notebook_38;Use the slider to adjust the amount of money you want to borrow, take note of the installments. When you're ready, press the button to take the loan.\r\nintercom_SCHOOL_notebook_39;If everything else fails, you can withdraw money from my deposit account. Now, click on the 'Deposit' tab.\r\nintercom_SCHOOL_notebook_40;Click the withdraw button, the money will immediatelly be added to your account. Note that you can withdraw money from the deposit only once.\r\nintercom_SCHOOL_notebook_41;Once you're ready, click the cross in the top right corner of the app to close it and return to the previous view.\r\nintercom_SCHOOL_notebook_42;I've added some more money to your account in case you want to test things out. Once you're done, follow the instructions in the bottom right corner and exit the laptop view.\r\nintercom_SCHOOL_notebook_43;Now you know everything about our laptop. Be sure to use this knowledge.\r\n;\r\n;\r\n;\r\n;\r\ncontest_participant_0;Participant 0\r\ncontest_participant_1;Participant 1\r\ncontest_participant_2;Participant 2\r\ncontest_participant_3;Participant 3\r\ncontest_participant_4;Participant 4\r\ncontest_participant_5;Participant 5\r\ncontest_participant_6;Participant 6\r\ncontest_participant_7;Participant 7\r\ncontest_participant_8;Participant 8\r\ncontest_participant_9;Participant 9\r\ncontest_participant_10;Participant 10\r\n;\r\ncomponent_CilantroGarnish;Cilantro Garnish\r\n;\r\n;\r\n;\r\nloading_hint_1;If you can't figure something out, try learning it in tutorials.\r\nloading_hint_2;In refrigerator you can find not only meat, but also some fruits, vegetables and cheese - check drawers.\r\nloading_hint_3;Sandbox mode allows you to play with everything that can be found in the kitchen.\r\nloading_hint_4;There is quite a difference between frying and deep frying, get to know what's your kitchen equipped with!\r\nloading_hint_5;Most people skip tutorials. Most people will regret this.\r\nloading_hint_6;Use notebook to unlock new dishes, change kitchen looks and manage your restaurant.\r\nloading_hint_7;During game you can switch between context mode and free mode in settings.\r\nloading_hint_8;In settings you can add Internet radio stations to listen to during game. Turn the radio on!\r\nintercom_EVENT_DAY_START_0;Within an hour, we'll be open for business. Use that time to get ready for work.\r\n;\r\nDAYEND_HINTEND;DAY [X]\r\n;\r\nproduct_163;Egg Shell\r\nproduct_164;Egg Shell\r\n;\r\nSecondHandPerk;Second Hand\r\nSecondHandPerk_0_name;Allows holding products while cutting.\r\nSecondHandPerk_0_description;Allows holding products while cutting.\r\n;\r\nstand_refrigerator;Refrigerator\r\n;\r\nmenu_yes;yes\r\nmenu_no;no\r\nmenu_load_phase;Load tutorial steps\r\nfirst_tutorial_start;Do you want to follow tutorial during first day?\r\nquest_complete;Complete\r\nquest_buy_items;Buy: [A]x [B].\r\nquest_repair_stands;Repair: [A].\r\nquest_pick_up;Pick up: [A].\r\nquest_go_to;Go to the marked area.\r\nquest_move_item;Put it down in the marked area.\r\nquest_empty_hands;Put it down.\r\nquest_unlock_recipe;Unlock: [A].\r\nquest_open_notebook;Use laptop.\r\nquest_close_notebook;Exit laptop.\r\nquest_open_shop;Enter shop view.\r\nquest_close_shop;Exit shop view.\r\nquest_open_recipes;Open recipes manager app.\r\nquest_open_recipes_shop;Open not owned recipes tab.\r\nquest_open_perks;Open perks manager app.\r\nquest_buy_perk;Buy perk: [A].\r\nquest_season;Season with: [A] [B].\r\nquest_in_container;Put: [A] in: [B].\r\nquest_on_container;Put: [A] on: [B].\r\nquest_open;Open: [A].\r\nquest_close;Close: [A].\r\nquest_put_it_into;Put it into: [A].\r\nquest_put_it_onto;Put it onto: [A].\r\nquest_bake;Bake: [A].\r\nquest_fry;Fry: [A].\r\nquest_deep_fry;Deep fry: [A].\r\nquest_boil;Boil: [A].\r\nquest_grill;Grill: [A].\r\nquest_microwave;Microwave: [A].\r\nquest_warm_up;Heat: [A].\r\nquest_cut;Cut: [A] into [B] pieces.\r\nquest_hold_container;Hold: [A] with: [C]x [B].\r\nquest_pour_to;Pour: [A] [B] into: [C].\r\nquest_pour;Pour: [A] [B].\r\nquest_add_product;Add: [A] [B].\r\nquest_add_product_to_container;Add: [A] [B] to: [C].\r\nquest_flip;Flip: [A].\r\nquest_blend;Blend everything together.\r\nquest_serve;Serve the dish.\r\nquest_phone_base;Put phone back on the phone base.\r\nquest_checkout;Put the dish on the checkout shelf.\r\nquest_dish_choice;Enter Serving App.\r\n;\r\nintercom_fdt_51;Introduction\r\nintercom_fdt_51_desc;Tutorial introduction and basic information.\r\nintercom_fdt_welcome_0;Hi, I'm the manager of this place. Since it's your first day, I'll show you the ropes.\r\nintercom_fdt_welcome_1;But before we start, three important things you need to know in case you get lost.\r\nintercom_fdt_welcome_2;One - key binding hints are always displayed in the bottom right corner of the screen.\r\nintercom_fdt_welcome_3;Two - during this tutorial you can view your tasks in the bottom left corner of the screen.\r\nintercom_fdt_welcome_4;Three - this tutorial will autosave between stages. If you get lost or stuck, you can always go back.\r\n;\r\nintercom_fdt_52;Basics: repairs\r\nintercom_fdt_52_desc;Repair damaged and worn out workstands.\r\nintercom_fdt_repairs_0;Huh... Looks like the last owner left this place in a sorry state.\r\nintercom_fdt_repairs_1;Get the phone. We need to call some professionals.\r\nintercom_fdt_repairs_1_qs;Find and take the phone.\r\nintercom_fdt_repairs_2;What a mess... We need to get that gas cooker running ASAP.\r\nintercom_fdt_repairs_3;Wow, it will take ages to repair that thing. We'd better hire someone that's fast. While hovering over the cooker use [sprite:ButtonsAtlas.Scroll] to select a company, then press [sprite:ButtonsAtlas.Primary] to start the repairs.\r\nintercom_fdt_repairs_3_qs;Find and repair the gas cooker.\r\nintercom_fdt_repairs_4;One down, four to go! We still need to fix ovens and deep fryers.\r\nintercom_fdt_repairs_4_qs;Repair ovens and deep fryers.\r\nintercom_fdt_repairs_5;Great job. Put the phone away, we won't be needing it anytime soon, I hope.\r\n;\r\nintercom_fdt_53;Basics: shopping\r\nintercom_fdt_53_desc;Learn to navigate the shop and buy kitchen utensils.\r\nintercom_fdt_shopping_0;Okay, no time to take a breather. This place is EMPTY and we're going to do something about it!\r\nintercom_fdt_shopping_1;First you'll need some utensils.\r\nintercom_fdt_shopping_2;Find the cardboard boxes. Hover over one and press [sprite:ButtonsAtlas.Primary] to open the shop.\r\nintercom_fdt_shopping_2_qs;Find the boxes and buy a blender.\r\nintercom_fdt_shopping_3;Select the Utensils tab and buy a blender.\r\nintercom_fdt_shopping_4;Good, now put the blender away. You can carry only one thing at a time.\r\nintercom_fdt_shopping_5;It will be faster if we move the box. Hover over it and press [sprite:ButtonsAtlas.F] to pick it up. Then put it down on the countertop.\r\nintercom_fdt_shopping_5_qs;Move the box.\r\nintercom_fdt_shopping_6;That's better, let's go shopping!\r\nintercom_fdt_shopping_6_qs;Buy cooking equipment.\r\nintercom_fdt_shopping_7;Use the shop to buy equipment from the list.\r\nintercom_fdt_shopping_8;Good job.\r\n;\r\nintercom_fdt_54;Basics: unlocking recipes\r\nintercom_fdt_54_desc;Add new recipes to your menu.\r\nintercom_fdt_notebook_0;We've got the tools, but we don't have any recipes. Go to the laptop.\r\nintercom_fdt_notebook_0_qs;Unlock all basic recipes.\r\nintercom_fdt_notebook_1;Click on the Recipe Manager in the left side-menu.\r\nintercom_fdt_notebook_2;Click on the NOT OWNED tab to open the Recipe Shop.\r\nintercom_fdt_notebook_3;Buy a recipe for Baked Trout by clicking the highlighted button.\r\nintercom_fdt_notebook_4;Exit the laptop.\r\nintercom_fdt_notebook_5;All the products for your new recipe are now available from the shop. Go on and check it out.\r\nintercom_fdt_notebook_5_qs;Visit the shop.\r\nintercom_fdt_notebook_6;Go back to notebook and unlock two more recipes.\r\nintercom_fdt_notebook_7;Let's see... Something easy...  I know, buy Salmon Steak and Boiled Potatoes.\r\nintercom_fdt_notebook_8;And the last one? Tomato Soup. Classic. Buy it.\r\nintercom_fdt_notebook_9;That should do for now. We'll improve our menu once the business gets rolling.\r\n;\r\nintercom_fdt_55;Advanced: buying spices\r\nintercom_fdt_55_desc;Buy the essential spices.\r\nintercom_fdt_spices_0;Okay. Let's see... Repairs, Utensils, Recipes. Ah yes, we'll need SPICES. Let's visit the shop.\r\nintercom_fdt_spices_0_qs;Buy salt.\r\nintercom_fdt_spices_1;Click on the Spices tab and buy Salt.\r\nintercom_fdt_spices_2;See, just like buying utensils. Now put it away.\r\nintercom_fdt_spices_3;Once we're open, there's not going to be much time for shopping. Best we buy all the neded spices now.\r\nintercom_fdt_spices_3_qs;Buy listed spices.\r\nintercom_fdt_spices_4;Nice.\r\n;\r\nintercom_fdt_56;Advanced: buying liquids\r\nintercom_fdt_56_desc;Buy the essential liquids.\r\nintercom_fdt_liquids_0;We still need some liquids. Go to a box and open the shop.\r\nintercom_fdt_liquids_0_qs;Buy listed liquids.\r\nintercom_fdt_liquids_1;Go to the liquids tab and buy all the listed products.\r\nintercom_fdt_liquids_2;We're almost there.\r\n;\r\nintercom_fdt_61;First Dish: Baked Trout\r\nintercom_fdt_61_desc;Complete your first order.\r\nintercom_fdt_dish1_0_1;Okay, I did my part. Let's see how well will you do yours. I want you to serve me a Baked Trout.\r\nintercom_fdt_dish1_0_2;At the end I'll rate you just as a regular guest would. Don't worry, you'll have some help. I've asked a friend of mine to guide you through the process.\r\nintercom_fdt_dish1_0_qs;Buy a trout.\r\nintercom_fdt_dish1_0;Right. We need a trout. Let's find the refrigerator, shall we?\r\nintercom_fdt_dish1_1;The fish should be inside. Open the door and buy one.\r\nintercom_fdt_dish1_2;Mind that each product costs money. You don't have to worry about supplies, but you still need to watch your spendings.\r\nintercom_fdt_dish1_3;Now, put that trout on a cutting board.\r\nintercom_fdt_dish1_4_qs;Season the trout.\r\nintercom_fdt_dish1_4;The recipe calls for black pepper, dill and thyme, 5g each. Just pick up a spice container, target the fish and press [sprite:ButtonsAtlas.Primary] to start seasoning.\r\nintercom_fdt_dish1_5_qs;Bake the trout.\r\nintercom_fdt_dish1_5;Now take the Trout. Place it on a baking tray.\r\nintercom_fdt_dish1_6;Now, let's put that into the oven. Note you can use many trays at the same time.\r\nintercom_fdt_dish1_7a;Use the top dial to turn the oven on. The bottom dial regulates the power, best leave that alone for now.\r\nintercom_fdt_dish1_7b;Now we leave it in for 90s.\r\nintercom_fdt_dish1_8_qs;Plate up.\r\nintercom_fdt_dish1_8;Buy a plate. You can quickly transfer products into a held container - even when they're hot - by pressing [sprite:ButtonsAtlas.Primary]. Use that knowledge to transfer trout onto the plate.\r\nintercom_fdt_dish1_9;We finish off the trout by seasoning it with 5g of Horseradish.\r\nintercom_fdt_dish1_10_qs;Prepare lemon quarters.\r\nintercom_fdt_dish1_10;We need a lemon, buy one.\r\nintercom_fdt_dish1_11;Place it on the cutting board.\r\nintercom_fdt_dish1_12;Now use the knife to cut the lemon into 4 pieces. Try to make them even.\r\nintercom_fdt_dish1_13_qs;Assemble the dish.\r\nintercom_fdt_dish1_13;Pick up the plate with the trout.\r\nintercom_fdt_dish1_14;Now pick up the lemon quarters. Target them and use [sprite:ButtonsAtlas.Scroll] to expand your pick up range.\r\nintercom_fdt_dish1_15;Finally, pick some fresh parsley onto the plate. 6g should do for garnish.\r\nintercom_fdt_dish1_16_qs;Serve the dish.\r\nintercom_fdt_dish1_16;Good, the dish is done. Now you need to serve it. Put it on the checkout shelf.\r\nintercom_fdt_dish1_17;Click on the checkout app and select the order you wish to complete. I can't wait to try it.\r\nintercom_fdt_dish1_18_0;Awful. Please tell me you did that on purpose.\r\nintercom_fdt_dish1_18_1;Eadible. I don't think our guests would settle for this.\r\nintercom_fdt_dish1_18_2;It's fine, but I'm sure you can do better.\r\nintercom_fdt_dish1_18_3;Very good! Looks like you know what you're doing.\r\nintercom_fdt_dish1_18_4;Wow! Amazing! Best Baked Trout I've ever eaten.\r\nintercom_fdt_dish1_19;That's it for today. Tomorrow we'll be open for business, so do your best.\r\n;\r\nintercom_fdt_62;Dish: Salmon Steak with Boiled Potatoes\r\nintercom_fdt_62_desc;Complete guests order.\r\nintercom_fdt_day2_2;Hi. I thought you might still need me today, so I'm here. But only for today, don't get too attached.\r\nintercom_fdt_dish2_0_qs;Salmon steak.\r\nintercom_fdt_dish2_0;First order for today is Salmon Steak with Boiled Potatoes.\r\nintercom_fdt_dish2_1;Alright. Fetch a Salmon from the refrigerator.\r\nintercom_fdt_dish2_2;Place the fish on a cutting board.\r\nintercom_fdt_dish2_3;Season it with Salt and Black Pepper. You can check the recipe on any display for the precise amounts.\r\nintercom_fdt_dish2_4;This recipe calls for frying in oil so we'll need a pan. Find one.\r\nintercom_fdt_dish2_5;Now, place it on the cooker.\r\nintercom_fdt_dish2_6;Pour some Sunflower Oil into the pan, about 10ml should be good.\r\nintercom_fdt_dish2_7;Enough. Now put the Salmon into the pan.\r\nintercom_fdt_dish2_8;Fry the Steak for 60s.\r\nintercom_fdt_dish2_9;Use the spatula to flip the steak.\r\nintercom_fdt_dish2_10;Fry for another 60s.\r\nintercom_fdt_dish2_11;Now transfer the Steak onto the plate.\r\nintercom_fdt_dish2_12_qs;Boiled Potatoes.\r\nintercom_fdt_dish2_12;Find a big pot, we'll need to boil the potatoes.\r\nintercom_fdt_dish2_13;First fill it with about 1l of cold tap water.\r\nintercom_fdt_dish2_14;Now add salt, about 20g.\r\nintercom_fdt_dish2_15;Finally go and buy two potatoes while holding the pot.\r\nintercom_fdt_dish2_16;Place the pot on the cooker and boil for 120s.\r\nintercom_fdt_dish2_17;Pick up the plate with Salmon Steak.\r\nintercom_fdt_dish2_18;Pick up the potatoes straight from the pot onto the plate.\r\nintercom_fdt_dish2_19_qs;Serve the dish.\r\nintercom_fdt_dish2_19;Put the plate on the serving shelf. Use the app to pick the order you are about to complete.\r\n;\r\nintercom_fdt_63;Dish: Tomato Soup\r\nintercom_fdt_63_desc;Complete guests order.\r\nintercom_fdt_dish3_0_qs;Preparation.\r\nintercom_fdt_dish3_0;No time for slacking off. The next order's here, we're serving some Tomato Soup.\r\nintercom_fdt_dish3_1;We'll need a big pot, find one and make sure it's empty.\r\nintercom_fdt_dish3_2;Take the pot to the pantry and buy 8 tomatoes into it.\r\nintercom_fdt_dish3_3;And for the final touch we need an onion.\r\nintercom_fdt_dish3_4;Pour in about 700ml of Chicken Broth. You can tilt the carton to hasten the process. We won't use all of the Broth, so save it for later.\r\nintercom_fdt_dish3_5;Now season the broth according to the recipe. Remember that you can look up recipes for active orders on any display.\r\nintercom_fdt_dish3_6_qs;Processing.\r\nintercom_fdt_dish3_6;Place the pot on the cooker.\r\nintercom_fdt_dish3_7;We need it to boil for 60s. Keep an eye on the time, not all recipes call for all products to cook through.\r\nintercom_fdt_dish3_8;Add 150ml of Sour Cream to the mixture.\r\nintercom_fdt_dish3_9;Turn off the heat and blend the contents of the pot.\r\nintercom_fdt_dish3_10_qs;Serving.\r\nintercom_fdt_dish3_10;Take a deep plate and place it on a counter.\r\nintercom_fdt_dish3_11;Take the pot and target the deep plate. Press [sprite:ButtonsAtlas.Primary] and then press it again and hold down while gently moving to pour the soup from the pot to the plate.\r\nintercom_fdt_dish3_12;Time to serve the dish, you know the drill.\r\nintercom_fdt_dish2_19;Put the plate on the serving shelf. Use the app to pick the order you are about to complete.\r\n;\r\nintercom_fdt_after61;Day Summary\r\nintercom_fdt_after61_desc;Summary of your daily achievements.\r\nintercom_fdt_progress1_1;After each day you'll be presented with a summary of progress the restaurant made.\r\nintercom_fdt_progress1_2;Our goal is to reach full 5 star fame rating. As you can see, there's still a lot ahead of us.\r\nintercom_fdt_progress1_3;Oh, and please, don't go bankrupt.\r\nintercom_fdt_progress2_1;Level summary shows how much experience you've gained today. Experience points come primarly from serving dishes and doing daily quests.\r\nintercom_fdt_progress2_2;Once you gain enough experience you will automatically level up.\r\nintercom_fdt_progress3_1;Perks are very powerful, unique abilities. Once every few levels you'll be given an option to choose one. \r\nintercom_fdt_progress3_2;This choice can't be postponed or undone so take your time and pick what you think will be most useful. \r\nintercom_fdt_progress3_3;You can view perks you already own using Perk Browser app in the laptop.\r\nintercom_fdt_progress4_1;Skill Points are used to unlock and upgrade Skills. With each level you gain a certain amount of SPs. You can spend them immediately or save them for later.\r\n;\r\nintercom_fdt_insert62;Preparation Phase\r\nintercom_fdt_insert62_desc;Prepare for the workday.\r\nintercom_fdt_day2_0;Hi! Are you as excited as I am? Remember, everything you serve today will affect our reputation.\r\nintercom_fdt_day2_1;Let's do this! Let's make this the best restaurant in the city!\r\nintercom_fdt_day2_31;This is what we call the preparation phase. The name should tell the story. No orders yet, but you can use anything in the kitchen to prepare for the day.\r\nintercom_fdt_day2_32;Make sure to prepare the ingredients you'll be using. Getting a head start on some of the dishes is also a good idea - as long as you know what you're doing.\r\nintercom_fdt_day2_4;You know what else? It's also a great opportunity to review the laptop!\r\nintercom_fdt_day2_4_qs;Enter the laptop.\r\nintercom_fdt_skills_0;Let's pick up where we left off yesterday. Open the Skill Manager app using the left side-menu.\r\nintercom_fdt_skills_0_qs;Open Skill Manager app.\r\nintercom_fdt_skills_1;Skills provide you with small gameplay bonuses. If you didn't spend your Skill Points yesterday, you can do so now.\r\nintercom_fdt_skills_3;Some skills become available once our Restaurant gains enough fame. You can choose to save up SPs and use this app later to unlock what you need.\r\nintercom_fdt_skills_4;You can even reset all your skills and spend your SPs differently, but that's going to cost you some money.\r\nintercom_fdt_perks_0;Once you're done here, head on to the Perk Browser app.\r\nintercom_fdt_perks_0_qs;Open Perk Browser app.\r\nintercom_fdt_perks_1;Here you can review already owned perks and on which levels you'll be learning new ones.\r\nintercom_fdt_perks_2;I think that's all. Once you're done here, you can exit the laptop.\r\nintercom_fdt_perks_3;A hint, kid. If I were you, I'd check out the recipes we'll be serving today, before you leave the laptop.\r\nintercom_fdt_perks_3_qs;When you're ready, exit the laptop.\r\nintercom_fdt_perks_4;Yikes, look at the time! We need to open right away. Let's get cooking!\r\n;\r\nintercom_fdt_64;Baked Trout\r\nintercom_fdt_64_desc;Complete guests order on your own.\r\nintercom_fdt_dish4_0;New order's here. One Baked Trout.\r\nintercom_fdt_dish4_1;Great, I think you can do this one on your own.\r\nintercom_fdt_dish4_2_qs;Serve Baked Trout.\r\n;\r\n;\r\npopup_saving;Saving...\r\nUnlockRecipe;Unlock Recipe\r\nHintUnlockRecipe;I think we should expand our menu. Look at the dishes below and pick your favourite.\r\nperfect;perfect\r\n;\r\n;\r\ndesc_pour_09_intoDeepPlate;Pour the Liquid [xml] into a Deep Plate\r\ndesc_pour_10_overX;Pour the Mixture [xml] over [x]\r\n;\r\nrecipe_1085;Shakshuka\r\nrecipe_1086;Spicy Shakshuka\r\nrecipe_1087;Pork Chops with Fried Egg and Lemon Baked Potatoes\r\nrecipe_1088;Ukrainian Borscht with Boiled Egg\r\n;\r\ncomponent_108500;Shakshuka\r\ncomponent_108600;Spicy Shakshuka\r\ncomponent_108601;Diced Goat Cheese\r\ncomponent_108602;Toast\r\ncomponent_108603;Mint Garnish\r\ncomponent_108702;Fried Egg\r\ncomponent_108801;Hard Boiled Egg\r\ncomponent_107701;Cilantro Garnish\r\n;\r\ndesc_crackEgg;Crack [x] into the Pan\r\ndesc_crackEggSauce;Crack [x] into the Pan with sauce\r\ndesc_peel;Peel the Egg\r\ndesc_transfer_35_everythingCasserole;Transfer everything into a Casserole\r\ndesc_transfer_36_fusilli;Transfer Fusilli into a Casserole\r\ndesc_transfer_37_penne;Transfer Penne into a Casserole\r\ndesc_transfer_38_everythingTheDeepPlaye;Transfer into the Deep Plate\r\n;\r\n;\r\n;\r\ntime_skip_prep;Skip preparation phase.\r\ntime_skip_clean;Skip cleaning phase.\r\nintercom_perk_streak;Wow, you're on fire! No, not literally. Another great dish in a row. You're making this place famous.\r\
+ nintercom_perk_streak2;I must admit, you're doing well. A satisfied guest after a satisfied guest. That surely affects our rating. Keep it up.\r\n;\r\
+ ntooltip_serve;Serve dish.\r\ntooltip_photo;Take a photo of your dish.\r\ntooltip_dishAnalyze;Check dish score.\r\ntut_repair;Repair\r\
+ ntut_repair_service;Change repair service\r\n;\r\nglass_quality;Glass Quality\r\n;\r\ntut_timerStart;Start Timer\r\n;\r\
+ ndaily_quests;Daily Quests\r\ndq_001;Gain {0} fame.\r\ndq_002;Gain 20 fame.\r\ndq_101;Finish the day without breaking plates.\r\ndq_102;Finish the day without breaking bottles.\r\ndq_Dishes;Deliver at least {0} dishes\r\ndq_DishesWithScore;Deliver at least {0} dish/dishes with a score {1} or higher.\r\ndq_PositiveMoney;Earn some money.\r\ndq_PositiveFame;Gain some fame.\r\ndq_GainCP;Gain {0} cooking points.\r\ndq_NoOvertime;Give out all dishes in regular time.\r\ndq_DishesBeforeTime;Give out {0} dish/dishes at least {1} seconds before time.\r\ndq_DontLooseFame;Don't loose any fame today! Not even once!\r\ndq_NoRefunds;Make no refunds today!\r\ndq_UpgradeRecipe;Upgrade a recipe!\r\ndq_NoRepairs;Make no repairs!\r\ndq_PerfectTechnical;Give out a technically perfect dish\r\ndq_PerfectTaste;Give out a dish with perfect taste\r\ndq_PerfectTemperature;Give out a dish with perfect temperature\r\ndq_NoReset;Don't reset dish today\r\ndq_NoReroll;Don't reroll dish today\r\ndq_NoTimeEnhance;Don't use Time Enhancer today\r\ndq_DishesWithinTime; Give out {0} dishes in {1} seconds.\r\nui_level;Level\r\nui_xp;XP\r\n;\r\ntut_run; Quick Steps\r\n;\r\napp_recipes;Recipe Manager\r\napp_sandbox;Order Manager\r\napp_skills;Skills\r\napp_perks;Perks\r\napp_deco;Decorations\r\n;\r\nui_all;All\r\nui_reset_skills;Reset all skills\r\nui_new_perks_available;New perks available\r\nui_new_decoration_available;New decoration available\r\nui_skillpoints;Skill points\r\nui_sp;SP\r\nui_daily_reward;Daily reward\r\nui_dish_stars;Dish stars\r\nui_quest_reward;Quest reward\r\nui_event_reward;Event reward\r\nui_contest_reward;Contest reward\r\nui_fame_reward;Fame star reward\r\nui_choose_perk;Choose perk\r\nui_choose_skills;Choose skills\r\nui_choose_recipes;Choose recipe\r\nui_choose_1_perk;Choose 1 perk\r\nui_pick_selected;Pick selected\r\nui_upgrade_skills;Upgrade your skills\r\nui_skillpoints_available;Skill points available\r\nui_cost;Cost:\r\nui_unlock_at;Unlock at [X]\r\nui_level_up;Level up\r\nui_next_day;Start next day\r\n;\r\nui_statistics;Statistics\r\nui_unlocked_dishes;Dishes unlocked\r\nui_unlocked_products;Products unlocked\r\nui_unlocked_spices;Spices unlocked\r\nui_unlocked_liquids;Liquids unlocked\r\nui_owned_decorations;Decorations owned\r\n;\r\nskill_LongerRecipeTime;Extended Dish Timers\r\nskill_LongerRecipeTime_desc;Serve time for dishes is extended by {0}.\r\nskill_LongerOvertime;Extended Overtime\r\nskill_LongerOvertime_desc;Overtime for dishes is extended by {0}.\r\nskill_LongerPreparationPhaseTime;Extended Preparation Phase\r\nskill_LongerPreparationPhaseTime_desc;Duration of Preparation Phase is extended by {0}.\r\nskill_LongerCleaningPhaseTime;Extended Cleaning Phase\r\nskill_LongerCleaningPhaseTime_desc;Duration of Cleaning Phase is extended by {0}.\r\nskill_SlowerGettingCold;Slower Cooling\r\nskill_SlowerGettingCold_desc;Products lose their temperature {0} slower.\r\nskill_SlowerGettingBurnt;Slower Burn\r\nskill_SlowerGettingBurnt_desc;Products need {0} more time to burn.\r\nskill_SlowerStandsDestruction;Durable Equipment\r\nskill_SlowerStandsDestruction_desc;Equipment breaks down {0} slower.\r\nskill_FasterRepairs;Faster Repairs\r\nskill_FasterRepairs_desc;Equipment repairs are {0} faster.\r\nskill_BetterRecipePrices;Cheaper Recipes\r\nskill_BetterRecipePrices_desc;Buying and upgrading recipes costs {0} less.\r\nskill_BetterProductPrices;Cheaper Products\r\nskill_BetterProductPrices_desc;Products cost {0} less.\r\nskill_BetterLiquidPrices;Cheaper Liquids\r\nskill_BetterLiquidPrices_desc;Liquids cost {0} less.\r\nskill_BetterSpicePrices;Cheaper Spices\r\nskill_BetterSpicePrices_desc;Spices cost {0} less.\r\nskill_BetterRepairPrices;Cheaper Repairs\r\nskill_BetterRepairPrices_desc;Equipment repairs are {0} cheaper.\r\nskill_BetterDecorationPrices;Cheaper Kitchen Decorations\r\nskill_BetterDecorationPrices_desc;Kitchen decorations are {0} cheaper.\r\nskill_BetterTips;Better Tips\r\nskill_BetterTips_desc;Guests' tips are {0} larger.\r\nskill_BetterCookingPoints;CP Boost\r\nskill_BetterCookingPoints_desc;You earn {0} more Cooking Points from served dishes.\r\nskill_BetterDailyQuests;Quest Reward Boost\r\nskill_BetterDailyQuests_desc;Your rewards from Daily Quests are {0} larger.\r\nskill_BetterExp;Experience Boost\r\nskill_BetterExp_desc;You earn {0} more experience points for dish stars.\r\nskill_BetterFameOnStrike;Dish Streak\r\nskill_BetterFameOnStrike_desc;Chain 4+ star dishes to earn {0} more fame points for each.\r\nskill_LighterTasteJudgment;Taste Tolerance\r\nskill_LighterTasteJudgment_desc;Dish taste tolerance is increased by {0}.\r\nskill_LighterEventScoreJudgment;Easier Events\r\nskill_LighterEventScoreJudgment_desc;Derpers and Gourmets have their expectations lowered by {0}.\r\nskill_BetterFameRewards;Fame Boost\r\nskill_BetterFameRewards_desc;You earn {0} more fame points.\r\nskill_SmallerFameLost;Fame Protector\r\nskill_SmallerFameLost_desc;You lose {0} less fame points.\r\nskill_BetterCashGrantsFromRecipes;Dish Income Boost\r\nskill_BetterCashGrantsFromRecipes_desc;Guests pay {0} more for their orders without affecting the score.\r\n;\r\nperk_Skillpoints;Skilled\r\nperk_Skillpoints_desc;Get additional 3 Skill Points instead of unlocking a perk.\r\nperk_UnbreakablePlates;Unbreakable Plates\r\nperk_UnbreakablePlates_desc;Plates will never break.\r\nperk_UnbreakableBottles;Unbreakable Bottles\r\nperk_UnbreakableBottles_desc;Bottles will never break.\r\nperk_HeatProofGloves;Heat Proof Gloves\r\nperk_HeatProofGloves_desc;Pick up and carry hot ingredients in your hands.\r\nperk_LongRange;Long Reach\r\nperk_LongRange_desc;Longer reach when picking up and putting down items.\r\
+ nperk_QuickSteps;Fast Feet\r\
+ nperk_QuickSteps_desc;Hold down {0} to walk faster.\r\
+ nperk_SlowMotion;Slow Motion\r\
+ nperk_SlowMotion_desc;Time slows down while cutting ingredients.\r\
+ nperk_Refund;Refund\r\nperk_Refund_desc;Refund an order to save your fame score.\r\
+ nperk_ThermalVision;Thermal Vision\r\
+ nperk_ThermalVision_desc;Learn the temperature of ingredients in a closed oven.\r\
+ nperk_SteadyHands;Steady Hands\r\
+ nperk_SteadyHands_desc;Hold down {0} to freeze items in place while cutting.\r\
+ nperk_BusyDay;Busy Day\r\
+ nperk_BusyDay_desc;Start every day with two daily quests instead of one.\r\
+ nperk_FairyTouch;Fairy Touch\r\
+ nperk_FairyTouch_desc;Grants a magic wand that removes all stains and shards.\r\
+ nperk_Connections;Connections\r\
+ nperk_Connections_desc;Lower score requirements to pass the Food Critic's Exams.\r\
+ nperk_DishAnalyzer;Dish Analyzer\r\
+ nperk_DishAnalyzer_desc;Check dish's score before serving it to the guest.\r\
+ nperk_Reroll;Reroll Order\r\
+ nperk_Reroll_desc;Once per day replace an active order with a random one.\r\
+ nperk_Reset;Time Rewinder\r\
+ nperk_Reset_desc;Once per day reset the timer of an active order.\r\
+ nperk_TimeEnhancer;Time Enhancer\r\
+ nperk_TimeEnhancer_desc;Once per day add 1 minute to all active orders.\r\n;\r\
+ nperk_DishAnalyzer_BtnInfo;Analyze dish\r\
+ nperk_Reroll_BtnInfo;Reroll dish\r\
+ nperk_Reset_BtnInfo;Reset dish time\r\
+ nperk_TimeEnhancer_BtnInfo;Add 60s to all dishes\r\
+ ncontainer_700;Gas Cooker\r\
+ ncontainer_701;Upper Oven\r\
+ ncontainer_702;Lower Oven\r\
+ ncontainer_703;Microwave\r\
+ ntut_fairytouch;Hokus Pokus\r\
+ ntool_17;Magic Wand\r\
+ nskills_reset_info;*Every next skill reset is more expensive than previous one.\r\
+ nskills_reset_description1;By spending [X][C]you can reset all your skills and get all your skill points spent back.\r\
+ nskills_reset_description2;Do you want to reset your skills?\r\
+ nui_skill_reset_pop2;Every next skill reset is more expensive than previous one\r\n;\r\
+ ndefault_monitor;Default Monitor\r\n;\r\
+ nui_deco_install;Install\r\
+ nui_deco_inuse;In use\r\
+ nui_tip_perk;Some tooltip you wanted here.\r\
+ nui_sandbox_perk_tip;*Click to select/deselect perk\r\n"
